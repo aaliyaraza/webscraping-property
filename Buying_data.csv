@@ -1,0 +1,820 @@
+Place,Price,Bedroom,Bathroom,Saleable Area,Area,Region
+28 BARKER ROAD 白加道28號,680000000.0,5.0,6.5,396.7, Peak/South, Hong Kong Island
+Caronia 楠樺居,600000000.0,4.0,3.0,477.34, Mid Level Central, Hong Kong Island
+110 Repulse Bay Road 淺水灣道110號,350000000.0,4.0,4.0,381.0, Peak/South, Hong Kong Island
+Rock Cliff 石盧,350000000.0,3.0,4.0,405.8, Sai Kung, New Territories East
+56 REPULSE BAY ROAD 淺水灣道56號,350000000.0,6.0,5.0,471.58, Southern District/Repulse Bay, Hong Kong Island
+Bay Villas 南源,338000000.0,4.0,5.0,341.88, Peak/South, Hong Kong Island
+6 Stanley Beach Road 赤柱灘道6號,303000000.0,4.0,4.5,292.37, Peak/South, Hong Kong Island
+Residence Bel-air* 貝沙灣,300000000.0,4.0,3.0,367.25, Bel-Air, Hong Kong Island
+Ondina Heights 安寧台,280000000.0,4.0,4.0,268.86, Peak/South, Hong Kong Island
+Residence Bel-air* 貝沙灣,280000000.0,4.0,6.0,389.26, Bel-Air, Hong Kong Island
+Yue Hei Yuen 裕熙園,268000000.0,4.0,4.0,319.21, Peak/South, Hong Kong Island
+Imperial Cullinan 瓏璽,250000000.0,11.0,12.0,382.95, Olympic Station, Kowloon
+12-16 TAI TAM ROAD 大潭道12-16號,245000000.0,4.0,4.0,311.23, Southern District/Repulse Bay, Hong Kong Island
+12-16 TAI TAM ROAD 大潭道12-16號,238000000.0,4.0,4.0,295.25, Southern District/Repulse Bay, Hong Kong Island
+The Hazelton 榛園,230000000.0,4.0,2.0,245.82, Peak/South, Hong Kong Island
+SEYMOUR 懿峰,228000000.0,7.0,5.0,290.6, Mid Level West, Hong Kong Island
+56 REPULSE BAY ROAD 淺水灣道56號,220000000.0,3.0,3.0,222.97, Southern District/Repulse Bay, Hong Kong Island
+MANDERLY GARDEN 文禮苑,210000000.0,4.0,4.0,325.53, Peak/South, Hong Kong Island
+CLUNY PARK CLUNY PARK,206500000.0,4.0,4.0,220.09, Mid Level Central, Hong Kong Island
+Flamingo Garden 飛鵝花園,200000000.0,4.0,4.5,274.44, Sai Kung, New Territories East
+Kennedy Park At Central 君珀,180000000.0,6.0,6.0,276.29, Mid Level Central, Hong Kong Island
+Manhattan Tower 曼赫頓大廈,178000000.0,3.0,4.0,205.78, Peak/South, Hong Kong Island
+BAGUIO VILLA 碧瑤灣,160000000.0,6.0,5.0,257.34, Peak/South, Hong Kong Island
+Villa Rosa 玫瑰園,155000000.0,4.0,5.0,307.88, Peak/South, Hong Kong Island
+Le Palais 皇府灣,150000000.0,4.0,5.0,306.77, Peak/South, Hong Kong Island
+Century Tower 世紀大廈,150000000.0,4.0,4.5,258.83, Mid Level Central, Hong Kong Island
+55 Conduit Road 璈珀,150000000.0,4.0,4.0,247.59, Mid Level West, Hong Kong Island
+The Masterpiece 名鑄,148000000.0,3.0,4.0,266.17, Tsimshatsui/Jordan, Kowloon
+Twin Brook 雙溪,140000000.0,4.0,4.5,225.1, Peak/South, Hong Kong Island
+22A-22B Mount Austin Road 柯士甸山道22A-22B號,140000000.0,3.0,3.0,206.34, Peak/South, Hong Kong Island
+Estoril Court 愛都大廈,139000000.0,4.0,3.0,268.3, Mid Level Central, Hong Kong Island
+Le Palais 皇府灣,139000000.0,4.0,4.0,306.77, Peak/South, Hong Kong Island
+Repulse Bay Towers 保華大廈,135000000.0,4.0,3.0,268.77, Peak/South, Hong Kong Island
+HORIZON RIDGE 海天徑38-48號,133000000.0,3.0,2.5,232.54, Aberdeen/Ap Lei Chau, Hong Kong Island
+The Beachfront 璧池,130000000.0,4.0,3.0,196.12, Peak/South, Hong Kong Island
+Che Keng Tuk Road 輋徑篤路,130000000.0,4.0,3.0,195.1, Sai Kung, New Territories East
+Deauville 星岸,130000000.0,4.0,3.0,309.92, Sham Tseng/Castle Peak Road (Tuen Mun Portion), New Territories West
+SEYMOUR 懿峰,130000000.0,4.0,3.0,160.72, Mid Level West, Hong Kong Island
+THE REDHILL PENINSULA 紅山半島,128333000.0,4.0,4.0,291.9, Peak/South, Hong Kong Island
+THE REDHILL PENINSULA 紅山半島,128123000.0,4.0,4.0,291.9, Peak/South, Hong Kong Island
+THE REDHILL PENINSULA 紅山半島,128087000.0,4.0,4.0,291.9, Peak/South, Hong Kong Island
+THE REDHILL PENINSULA 紅山半島,128067000.0,4.0,4.0,291.9, Peak/South, Hong Kong Island
+Repulse Bay Heights 淺水灣花園,128000000.0,4.0,3.0,197.7, Peak/South, Hong Kong Island
+OASIS 欣怡居,125000000.0,3.0,4.0,173.64, Peak/South, Hong Kong Island
+L'Harmonie 葆琳居,120000000.0,4.0,4.0,222.22, Peak/South, Hong Kong Island
+Sheung Yeung 上洋,120000000.0,4.0,4.0,195.1, Sai Kung, New Territories East
+The Albany 雅賓利,118000000.0,3.0,2.0,180.98, Mid Level Central, Hong Kong Island
+Argenta 珒然,118000000.0,3.0,3.0,197.23, Mid Level West, Hong Kong Island
+Dynasty Court 帝景園,118000000.0,4.0,2.0,198.91, Mid Level Central, Hong Kong Island
+THE MORGAN 敦皓,110000000.0,3.0,4.0,147.81, Mid Level West, Hong Kong Island
+Le Palais 皇府灣,110000000.0,4.0,3.0,236.53, Peak/South, Hong Kong Island
+Clovelly Court 嘉富麗苑,110000000.0,5.0,4.0,218.14, Mid Level Central, Hong Kong Island
+SEYMOUR 懿峰,110000000.0,5.0,2.0,160.91, Mid Level West, Hong Kong Island
+THE REDHILL PENINSULA 紅山半島,109305000.0,4.0,4.0,259.01, Peak/South, Hong Kong Island
+THE REDHILL PENINSULA 紅山半島,108192000.0,4.0,4.0,259.01, Peak/South, Hong Kong Island
+Grosse Pointe Villa 赤柱村道4號,108000000.0,4.0,3.0,227.71, Peak/South, Hong Kong Island
+SEYMOUR 懿峰,108000000.0,5.0,2.0,160.91, Mid Level West, Hong Kong Island
+SEYMOUR 懿峰,108000000.0,5.0,2.0,161.28, Mid Level West, Hong Kong Island
+Dynasty Court 帝景園,110000000.0,4.0,2.0,198.91, Mid Level Central, Hong Kong Island
+THE REDHILL PENINSULA 紅山半島,106477000.0,4.0,4.0,259.01, Peak/South, Hong Kong Island
+THE REDHILL PENINSULA 紅山半島,105361000.0,4.0,4.0,259.01, Peak/South, Hong Kong Island
+THE REDHILL PENINSULA 紅山半島,105361000.0,4.0,4.0,259.01, Peak/South, Hong Kong Island
+THE REDHILL PENINSULA 紅山半島,105189000.0,4.0,4.0,259.01, Peak/South, Hong Kong Island
+The Cullinan 天璽,105000000.0,4.0,3.0,125.98, Kowloon Station, Kowloon
+Ruby Court 嘉麟閣,105000000.0,3.0,2.5,164.9, Peak/South, Hong Kong Island
+Century Tower 世紀大廈,105000000.0,4.0,3.0,264.59, Mid Level Central, Hong Kong Island
+THE REDHILL PENINSULA 紅山半島,103579000.0,4.0,4.0,259.01, Peak/South, Hong Kong Island
+THE REDHILL PENINSULA 紅山半島,103411000.0,4.0,4.0,259.01, Peak/South, Hong Kong Island
+THE REDHILL PENINSULA 紅山半島,103283000.0,4.0,4.0,259.01, Peak/South, Hong Kong Island
+THE REDHILL PENINSULA 紅山半島,102899000.0,4.0,4.0,259.01, Peak/South, Hong Kong Island
+THE REDHILL PENINSULA 紅山半島,99000000.0,4.0,3.0,243.68, Peak/South, Hong Kong Island
+Celestial Heights 半山壹號,95000000.0,4.0,5.0,219.16, Ho Man Tin/King's Park, Kowloon
+Regalia Bay 富豪海灣,95000000.0,5.0,4.0,282.52, Peak/South, Hong Kong Island
+Stanley Knoll STANLEY KNOLL,95000000.0,4.0,3.0,241.08, Peak/South, Hong Kong Island
+L'Harmonie 葆琳居,95000000.0,4.0,5.0,243.13, Peak/South, Hong Kong Island
+The Masterpiece 名鑄,95000000.0,3.0,3.0,160.16, Tsimshatsui/Jordan, Kowloon
+The Masterpiece 名鑄,93000000.0,5.0,3.0,221.11, Tsimshatsui/Jordan, Kowloon
+Argenta 珒然,92000000.0,3.0,3.5,197.23, Mid Level West, Hong Kong Island
+SEYMOUR 懿峰,91500000.0,4.0,2.0,160.91, Mid Level West, Hong Kong Island
+The Cullinan 天璽,90000000.0,4.0,3.0,132.11, Kowloon Station, Kowloon
+Park Place 雅柏苑,90000000.0,3.0,2.0,196.3, Peak/South, Hong Kong Island
+Evergreen Garden 松柏花園,90000000.0,4.0,4.0,187.2, Peak/South, Hong Kong Island
+Regalia Bay 富豪海灣,90000000.0,4.0,4.5,281.87, Peak/South, Hong Kong Island
+Residence Bel-air* 貝沙灣,90000000.0,4.0,3.5,167.04, Bel-Air, Hong Kong Island
+Kennedy Park At Central 君珀,90000000.0,3.0,2.0,138.15, Mid Level Central, Hong Kong Island
+Kennedy Park At Central 君珀,90000000.0,3.0,3.5,134.9, Mid Level Central, Hong Kong Island
+Clovelly Court 嘉富麗苑,90000000.0,4.0,2.0,218.14, Mid Level Central, Hong Kong Island
+MARINELLA 深湾九號,90000000.0,4.0,3.0,181.07, Aberdeen/Ap Lei Chau, Hong Kong Island
+MARINELLA 深湾九號,90000000.0,4.0,3.0,167.88, Aberdeen/Ap Lei Chau, Hong Kong Island
+MARINELLA 深湾九號,90000000.0,4.0,3.0,181.07, Aberdeen/Ap Lei Chau, Hong Kong Island
+Junk Bay Villas 雅景別墅,90000000.0,6.0,4.0,305.28, Sai Kung, New Territories East
+Estoril Court 愛都大廈,88000000.0,4.0,3.5,268.3, Mid Level Central, Hong Kong Island
+ALASSIO 殷然,88000000.0,4.0,3.0,153.66, Mid Level West, Hong Kong Island
+Convention Plaza Apartments 會展中心會景閣,89000000.0,3.0,1.0,207.55, Wanchai/Causeway Bay, Hong Kong Island
+MARINELLA 深湾九號,87000000.0,4.0,3.0,167.88, Aberdeen/Ap Lei Chau, Hong Kong Island
+31 Robinson Road 羅便臣道31號,87000000.0,4.0,3.0,162.21, Mid Level West, Hong Kong Island
+THE REDHILL PENINSULA 紅山半島,86000000.0,4.0,3.5,243.68, Peak/South, Hong Kong Island
+Fontana Gardens 豪園,86000000.0,4.0,3.0,249.91, Wanchai/Causeway Bay, Hong Kong Island
+Dynasty Court 帝景園,85500000.0,4.0,2.5,200.02, Mid Level Central, Hong Kong Island
+Regalia Bay 富豪海灣,85000000.0,4.0,6.5,281.87, Peak/South, Hong Kong Island
+SEYMOUR 懿峰,85000000.0,3.0,3.0,160.91, Mid Level West, Hong Kong Island
+San Shek Wan Village 䃟石灣村,85000000.0,5.0,,394.84, Southern District/Repulse Bay, Hong Kong Island
+MARINELLA 深湾九號,84500000.0,4.0,3.0,181.07, Aberdeen/Ap Lei Chau, Hong Kong Island
+THE REDHILL PENINSULA 紅山半島,83000000.0,4.0,3.5,263.47, Peak/South, Hong Kong Island
+One Beacon Hill 畢架山一號,83000000.0,4.0,3.0,195.19, Kowloon Tong/Beacon Hill, Kowloon
+One Beacon Hill 畢架山一號,83000000.0,4.0,3.0,195.19, Kowloon Tong/Beacon Hill, Kowloon
+REPULSE BAY GARDEN 淺水灣麗景園,82000000.0,3.0,3.0,190.36, Peak/South, Hong Kong Island
+Splendour Villa 雅景閣,80000000.0,3.0,5.0,203.18, Peak/South, Hong Kong Island
+Century Tower 世紀大廈,80000000.0,2.0,2.0,189.62, Mid Level Central, Hong Kong Island
+Royalton 豪峰,80000000.0,4.0,4.0,199.37, Peak/South, Hong Kong Island
+31 Robinson Road 羅便臣道31號,80000000.0,2.0,3.0,184.88, Mid Level West, Hong Kong Island
+SEYMOUR 懿峰,80000000.0,5.0,2.0,160.91, Mid Level West, Hong Kong Island
+Belgravia -,79000000.0,4.0,3.0,204.11, Peak/South, Hong Kong Island
+Regalia Bay 富豪海灣,78800000.0,4.0,5.5,261.43, Peak/South, Hong Kong Island
+55 Conduit Road 璈珀,78000000.0,3.0,4.0,142.88, Mid Level West, Hong Kong Island
+THE REDHILL PENINSULA 紅山半島,78000000.0,4.0,3.5,239.97, Peak/South, Hong Kong Island
+Hollywood Heights 好利閣,78000000.0,3.0,4.0,210.89, Mid Level Central, Hong Kong Island
+Serenade 上林,78000000.0,4.0,3.5,182.65, Wanchai/Causeway Bay, Hong Kong Island
+SEYMOUR 懿峰,78000000.0,3.0,3.0,129.88, Mid Level West, Hong Kong Island
+1 Robinson Road 羅便臣道1號,76980000.0,4.0,4.5,243.96, Mid Level Central, Hong Kong Island
+Kennedy Park At Central 君珀,76000000.0,3.0,3.0,134.9, Mid Level Central, Hong Kong Island
+Tavistock II 騰皇居 II,75000000.0,3.0,2.0,141.21, Mid Level Central, Hong Kong Island
+REPULSE BAY GARDEN 淺水灣麗景園,75000000.0,3.0,3.0,190.36, Peak/South, Hong Kong Island
+Valais 天巒,75000000.0,3.0,4.0,259.39, Sheung Shui/Fanling, New Territories East
+SEYMOUR 懿峰,75000000.0,5.0,2.0,160.91, Mid Level West, Hong Kong Island
+MARINELLA 深湾九號,75000000.0,4.0,3.0,167.88, Aberdeen/Ap Lei Chau, Hong Kong Island
+SEYMOUR 懿峰,75000000.0,4.0,2.0,129.79, Mid Level West, Hong Kong Island
+The Riviera 滿湖花園,75000000.0,5.0,3.5,205.13, Sai Kung, New Territories East
+Estoril Court 愛都大廈,74980000.0,5.0,3.0,268.3, Mid Level Central, Hong Kong Island
+MARINELLA 深湾九號,74000000.0,4.0,3.0,167.88, Aberdeen/Ap Lei Chau, Hong Kong Island
+Regence Royale 富匯豪庭,74000000.0,4.0,3.0,167.69, Mid Level Central, Hong Kong Island
+Ridge Court 冠園,73000000.0,3.0,2.0,165.37, Peak/South, Hong Kong Island
+REPULSE BAY GARDEN 淺水灣麗景園,73000000.0,3.0,2.0,190.36, Peak/South, Hong Kong Island
+AZURA 蔚然,72000000.0,3.0,3.0,120.5, Mid Level West, Hong Kong Island
+MARINELLA 深湾九號,71000000.0,4.0,3.0,153.29, Aberdeen/Ap Lei Chau, Hong Kong Island
+Kennedy Terrace,70000000.0,3.0,3.5,208.1, Mid Level Central, Hong Kong Island
+Aqua Blue 浪濤灣,70000000.0,4.0,3.5,198.16, Tuen Mun, New Territories West
+MING VILLA 明苑小築,70000000.0,4.0,4.0,307.6, Tsuen Wan, New Territories West
+MARINELLA 深湾九號,70000000.0,4.0,3.0,167.88, Aberdeen/Ap Lei Chau, Hong Kong Island
+MARINELLA 深湾九號,70000000.0,4.0,3.0,158.21, Aberdeen/Ap Lei Chau, Hong Kong Island
+AZURA 蔚然,70000000.0,3.0,3.0,120.03, Mid Level West, Hong Kong Island
+Po Garden 寶園,69000000.0,4.0,2.0,180.42, Mid Level West, Hong Kong Island
+45 Island Road 香島道45號,68800000.0,4.0,3.0,122.07, Peak/South, Hong Kong Island
+AZURA 蔚然,68000000.0,3.0,3.0,120.5, Mid Level West, Hong Kong Island
+REALTY GARDENS 聯邦花園,67000000.0,5.0,4.0,216.65, Mid Level West, Hong Kong Island
+Ming Wai Gardens 明慧園,66800000.0,3.0,2.0,147.07, Peak/South, Hong Kong Island
+Mayfair by the Sea 逸瓏灣,66800000.0,4.0,3.0,145.02, Tai Po Market/Tai Wo, New Territories East
+La Mer 浪頤居,65000000.0,3.0,2.0,169.18, Peak/South, Hong Kong Island
+The Masterpiece 名鑄,65000000.0,3.0,3.0,135.73, Tsimshatsui/Jordan, Kowloon
+REPULSE BAY GARDEN 淺水灣麗景園,65000000.0,3.0,2.0,190.36, Peak/South, Hong Kong Island
+MARINELLA 深湾九號,65000000.0,4.0,3.0,153.29, Aberdeen/Ap Lei Chau, Hong Kong Island
+Regal Crest 薈萃苑,65000000.0,3.0,2.0,162.21, Mid Level West, Hong Kong Island
+AZURA 蔚然,65000000.0,3.0,3.0,120.5, Mid Level West, Hong Kong Island
+55 Conduit Road 璈珀,64000000.0,3.0,2.0,142.88, Mid Level West, Hong Kong Island
+Hong Villa 峰景,63800000.0,3.0,2.5,146.69, Mid Level Central, Hong Kong Island
+Residence Bel-air* 貝沙灣,63500000.0,4.0,3.5,165.37, Bel-Air, Hong Kong Island
+SEYMOUR 懿峰,63000000.0,5.0,2.0,160.72, Mid Level West, Hong Kong Island
+The Wonderland 家和園,62800000.0,5.0,5.0,277.41, Sham Tseng/Castle Peak Road (Tuen Mun Portion), New Territories West
+HONG KONG PARKVIEW 陽明山莊,62000000.0,4.0,2.0,214.42, Peak/South, Hong Kong Island
+AZURA 蔚然,61800000.0,4.0,3.0,148.46, Mid Level West, Hong Kong Island
+Villa Pergola 百高別墅,60000000.0,3.0,3.0,158.77, Sai Kung, New Territories East
+SEYMOUR 懿峰,60000000.0,3.0,2.0,129.88, Mid Level West, Hong Kong Island
+MARINELLA 深湾九號,60000000.0,3.0,2.0,101.64, Aberdeen/Ap Lei Chau, Hong Kong Island
+MARINELLA 深湾九號,60000000.0,3.0,2.0,117.8, Aberdeen/Ap Lei Chau, Hong Kong Island
+Beaulieu Peninsula 蟠龍半島,59800000.0,3.0,2.5,222.41, Tuen Mun, New Territories West
+BISNEY VIEW 碧荔道47-49號,59800000.0,4.0,3.0,165.27, Mid Level West, Hong Kong Island
+The Mangrove 紅樹海岸,59800000.0,7.0,6.0,390.19, Sai Kung, New Territories East
+LARVOTTO 南灣,61000000.0,3.0,2.0,180.42, Aberdeen/Ap Lei Chau, Hong Kong Island
+Villa Monte Rosa 玫瑰新村,59000000.0,3.0,2.0,194.17, Happy Valley/Mid Level East, Hong Kong Island
+AZURA 蔚然,58500000.0,3.0,3.0,120.4, Mid Level West, Hong Kong Island
+Ming Villa 明苑小築,60000000.0,4.0,2.0,307.6, Tuen Mun, New Territories West
+Celestial Heights 半山壹號,58000000.0,3.0,2.0,232.44, Ho Man Tin/King's Park, Kowloon
+Mount Parker Residences,58000000.0,3.0,3.5,163.79, Quarry Bay/Kornhill, Hong Kong Island
+REPULSE BAY GARDEN 淺水灣麗景園,58000000.0,3.0,2.0,190.36, Peak/South, Hong Kong Island
+AZURA 蔚然,58000000.0,3.0,3.0,120.03, Mid Level West, Hong Kong Island
+Ming Wai Gardens 明慧園,57000000.0,3.0,2.0,147.07, Peak/South, Hong Kong Island
+The Riviera 滿湖花園,56900000.0,3.0,3.5,185.43, Sai Kung, New Territories East
+Dynasty Court 帝景園,56000000.0,3.0,3.0,141.4, Mid Level Central, Hong Kong Island
+Ventris Place 雲地利台,56000000.0,5.0,3.0,173.08, Happy Valley/Mid Level East, Hong Kong Island
+Regence Royale 富匯豪庭,55480000.0,3.0,2.0,175.77, Mid Level Central, Hong Kong Island
+Cavendish Heights 嘉雲臺,55000000.0,3.0,2.5,133.69, Wanchai/Causeway Bay, Hong Kong Island
+Residence Bel-air* 貝沙灣,55000000.0,4.0,4.0,133.69, Bel-Air, Hong Kong Island
+Residence Bel-air* 貝沙灣,55000000.0,4.0,2.0,133.69, Bel-Air, Hong Kong Island
+The Austin,55000000.0,4.0,2.0,120.12, Kowloon Station, Kowloon
+The Arch 凱旋門,55000000.0,3.0,2.0,93.83, Kowloon Station, Kowloon
+BAGUIO VILLA 碧瑤灣,55000000.0,4.0,3.0,231.14, Peak/South, Hong Kong Island
+SEYMOUR 懿峰,55000000.0,5.0,3.0,160.91, Mid Level West, Hong Kong Island
+REPULSE BAY GARDEN 淺水灣麗景園,55000000.0,3.0,2.0,140.56, Peak/South, Hong Kong Island
+AZURA 蔚然,55000000.0,4.0,4.0,148.46, Mid Level West, Hong Kong Island
+AZURA 蔚然,55000000.0,3.0,3.0,120.5, Mid Level West, Hong Kong Island
+MARINELLA 深湾九號,55000000.0,3.0,2.0,117.8, Aberdeen/Ap Lei Chau, Hong Kong Island
+MARINELLA 深湾九號,55000000.0,4.0,3.0,128.95, Aberdeen/Ap Lei Chau, Hong Kong Island
+MARINELLA 深湾九號,55000000.0,2.0,2.0,125.88, Aberdeen/Ap Lei Chau, Hong Kong Island
+SEYMOUR 懿峰,55000000.0,3.0,3.0,129.88, Mid Level West, Hong Kong Island
+AZURA 蔚然,55000000.0,4.0,4.0,148.46, Mid Level West, Hong Kong Island
+duplicate 干諾道西118號,56074000.0,,1.0,226.5, Sheung Wan/Central/Admiralty, Hong Kong Island
+MARINELLA 深湾九號,54000000.0,4.0,4.0,123.75, Aberdeen/Ap Lei Chau, Hong Kong Island
+MARINELLA 深湾九號,53800000.0,3.0,2.0,128.76, Aberdeen/Ap Lei Chau, Hong Kong Island
+REPULSE BAY GARDEN 淺水灣麗景園,53800000.0,4.0,2.0,190.36, Peak/South, Hong Kong Island
+HONG KONG PARKVIEW 陽明山莊,53000000.0,3.0,3.0,136.38, Peak/South, Hong Kong Island
+37 REPULSE BAY ROAD 淺水灣道37號,52800000.0,3.0,2.0,111.39, Peak/South, Hong Kong Island
+Belcher's Hill 寶雅山,52800000.0,4.0,3.0,132.2, Kennedy Town/Sai Yin Pun, Hong Kong Island
+THE MORGAN 敦皓,52120000.0,3.0,3.0,121.05, Mid Level West, Hong Kong Island
+HONG KONG PARKVIEW 陽明山莊,52000000.0,3.0,3.0,150.69, Peak/South, Hong Kong Island
+Valais 天巒,52000000.0,3.0,3.5,231.05, Sheung Shui/Fanling, New Territories East
+SEYMOUR 懿峰,52000000.0,4.0,3.0,160.91, Mid Level West, Hong Kong Island
+AZURA 蔚然,52000000.0,4.0,3.0,148.46, Mid Level West, Hong Kong Island
+MARINELLA 深湾九號,52000000.0,3.0,2.0,116.87, Aberdeen/Ap Lei Chau, Hong Kong Island
+AZURA 蔚然,52000000.0,3.0,3.0,120.5, Mid Level West, Hong Kong Island
+31 Robinson Road 羅便臣道31號,52000000.0,4.0,3.0,166.58, Mid Level West, Hong Kong Island
+The Masterpiece 名鑄,51800000.0,3.0,2.0,136.2, Tsimshatsui/Jordan, Kowloon
+The Belcher's 寶翠園,51000000.0,4.0,4.0,134.43, Kennedy Town/Sai Yin Pun, Hong Kong Island
+MARINELLA 深湾九號,51000000.0,3.0,3.0,117.8, Aberdeen/Ap Lei Chau, Hong Kong Island
+AZURA 蔚然,51000000.0,2.0,3.0,120.03, Mid Level West, Hong Kong Island
+MARINELLA 深湾九號,51000000.0,4.0,3.0,142.51, Aberdeen/Ap Lei Chau, Hong Kong Island
+Residence Bel-air* 貝沙灣,50880000.0,3.0,2.5,126.81, Bel-Air, Hong Kong Island
+Valais 天巒,50000000.0,3.0,4.0,190.27, Sheung Shui/Fanling, New Territories East
+HONG KONG PARKVIEW 陽明山莊,50000000.0,3.0,1.0,176.52, Peak/South, Hong Kong Island
+Residence Bel-air* 貝沙灣,50000000.0,3.0,3.0,121.33, Bel-Air, Hong Kong Island
+REPULSE BAY GARDEN 淺水灣麗景園,50000000.0,3.0,2.0,140.56, Peak/South, Hong Kong Island
+MARINELLA 深湾九號,50000000.0,3.0,2.0,116.96, Aberdeen/Ap Lei Chau, Hong Kong Island
+Valais 天巒,50000000.0,4.0,5.0,263.94, Sheung Shui/Fanling, New Territories East
+MARINELLA 深湾九號,50000000.0,3.0,2.0,117.8, Aberdeen/Ap Lei Chau, Hong Kong Island
+MARINELLA 深湾九號,50000000.0,4.0,3.0,128.76, Aberdeen/Ap Lei Chau, Hong Kong Island
+One Pacific Heights 盈峰一號,50000000.0,3.0,2.0,119.94, Sheung Wan/Central/Admiralty, Hong Kong Island
+SEYMOUR 懿峰,50000000.0,4.0,2.0,160.72, Mid Level West, Hong Kong Island
+AZURA 蔚然,50000000.0,3.0,3.0,121.52, Mid Level West, Hong Kong Island
+AZURA 蔚然,50000000.0,3.0,3.0,147.53, Mid Level West, Hong Kong Island
+SEYMOUR 懿峰,49800000.0,3.0,2.0,129.88, Mid Level West, Hong Kong Island
+AZURA 蔚然,49800000.0,4.0,4.0,147.62, Mid Level West, Hong Kong Island
+BAGUIO VILLA 碧瑤灣,49000000.0,4.0,3.0,231.14, Peak/South, Hong Kong Island
+Tregunter Tower 地利根德閣,49000000.0,3.0,2.0,148.83, Mid Level Central, Hong Kong Island
+Dragon Lake Villa 龍湖別墅,49000000.0,3.0,3.0,201.51, Sai Kung, New Territories East
+BOTANIC TERRACE 芝蘭台,48850000.0,4.0,2.0,175.87, Mid Level West, Hong Kong Island
+The Harbourside 君臨天下,48800000.0,3.0,2.0,98.66, Kowloon Station, Kowloon
+The Cullinan 天璽,49880000.0,3.0,3.0,80.92, Kowloon Station, Kowloon
+Butler Towers 柏麗園,48000000.0,4.0,2.5,138.61, Wanchai/Causeway Bay, Hong Kong Island
+Splendour Villa 雅景閣,48000000.0,1.0,2.0,114.64, Peak/South, Hong Kong Island
+The Harbourside 君臨天下,48000000.0,3.0,2.0,97.64, Kowloon Station, Kowloon
+HONG KONG PARKVIEW 陽明山莊,48000000.0,3.0,3.0,150.69, Peak/South, Hong Kong Island
+REPULSE BAY GARDEN 淺水灣麗景園,48000000.0,3.0,2.0,140.56, Peak/South, Hong Kong Island
+Valais 天巒,48000000.0,3.0,4.0,229.1, Sheung Shui/Fanling, New Territories East
+AZURA 蔚然,48000000.0,4.0,4.0,147.62, Mid Level West, Hong Kong Island
+MARINELLA 深湾九號,48000000.0,3.0,2.0,124.68, Aberdeen/Ap Lei Chau, Hong Kong Island
+MARINELLA 深湾九號,48000000.0,3.0,2.0,102.66, Aberdeen/Ap Lei Chau, Hong Kong Island
+SEYMOUR 懿峰,48000000.0,4.0,2.0,136.1, Mid Level West, Hong Kong Island
+SEYMOUR 懿峰,48000000.0,4.0,2.0,129.88, Mid Level West, Hong Kong Island
+The Masterpiece 名鑄,47000000.0,3.0,3.0,105.82, Tsimshatsui/Jordan, Kowloon
+The Masterpiece 名鑄,47000000.0,2.0,3.0,96.71, Tsimshatsui/Jordan, Kowloon
+MARINELLA 深湾九號,47000000.0,3.0,2.0,115.94, Aberdeen/Ap Lei Chau, Hong Kong Island
+Regal Crest 薈萃苑,47000000.0,3.0,3.0,158.4, Mid Level West, Hong Kong Island
+The Legend 名門,46500000.0,3.0,2.5,102.56, Wanchai/Causeway Bay, Hong Kong Island
+THE SUMMA 高士台,46000000.0,3.0,3.0,140.56, Kennedy Town/Sai Yin Pun, Hong Kong Island
+HONG KONG PARKVIEW 陽明山莊,46000000.0,3.0,3.0,150.69, Peak/South, Hong Kong Island
+Yue Yan Mansion 裕仁大廈,46000000.0,4.0,3.0,191.75, Peak/South, Hong Kong Island
+Catalina Mansion 嘉年大廈,46000000.0,3.0,2.0,157.66, Mid Level Central, Hong Kong Island
+Catalina Mansion 嘉年大廈,46000000.0,3.0,2.0,157.66, Mid Level Central, Hong Kong Island
+MY CENTRAL -,45000000.0,3.0,2.0,76.83, Sheung Wan/Central/Admiralty, Hong Kong Island
+Pearl Gardens 明珠台,45000000.0,4.0,2.0,195.1, Mid Level West, Hong Kong Island
+Pearl Gardens 明珠台,45000000.0,4.0,2.0,195.1, Mid Level West, Hong Kong Island
+The Waterfront 漾日居,45000000.0,3.0,2.0,98.29, Tsimshatsui/Jordan, Kowloon
+Hillsborough Court 曉峰閣,45000000.0,3.0,2.0,102.94, Mid Level Central, Hong Kong Island
+MARINELLA 深湾九號,45000000.0,3.0,3.0,102.66, Aberdeen/Ap Lei Chau, Hong Kong Island
+MARINELLA 深湾九號,45000000.0,3.0,2.0,117.8, Aberdeen/Ap Lei Chau, Hong Kong Island
+MARINELLA 深湾九號,45000000.0,2.0,2.0,86.68, Aberdeen/Ap Lei Chau, Hong Kong Island
+MARINELLA 深湾九號,43800000.0,3.0,3.0,102.66, Aberdeen/Ap Lei Chau, Hong Kong Island
+Pearl Gardens 明珠台,45000000.0,4.0,2.0,195.1, Mid Level West, Hong Kong Island
+The Waterfront 漾日居,43200000.0,3.0,2.0,111.48, Tsimshatsui/Jordan, Kowloon
+The Legend 名門,43000000.0,4.0,3.0,128.86, Wanchai/Causeway Bay, Hong Kong Island
+Wealthy Heights 威豪閣,43000000.0,3.0,2.0,147.16, Mid Level Central, Hong Kong Island
+The Leighton Hill 禮頓山,43000000.0,3.0,3.0,85.84, Happy Valley/Mid Level East, Hong Kong Island
+SKYLINE MANSION 年豐園,43000000.0,4.0,3.5,143.81, Mid Level West, Hong Kong Island
+MARINELLA 深湾九號,43000000.0,3.0,2.0,102.66, Aberdeen/Ap Lei Chau, Hong Kong Island
+MARINELLA 深湾九號,43000000.0,3.0,2.0,103.87, Aberdeen/Ap Lei Chau, Hong Kong Island
+AZURA 蔚然,43000000.0,3.0,3.0,121.52, Mid Level West, Hong Kong Island
+IMPERIAL COURT 帝豪閣,42000000.0,3.0,2.0,115.76, Mid Level West, Hong Kong Island
+Hillsborough Court 曉峰閣,42000000.0,3.0,2.5,93.65, Mid Level Central, Hong Kong Island
+MARINELLA 深湾九號,42000000.0,3.0,2.0,103.87, Aberdeen/Ap Lei Chau, Hong Kong Island
+MARINELLA 深湾九號,42000000.0,3.0,2.0,102.94, Aberdeen/Ap Lei Chau, Hong Kong Island
+MARINELLA 深湾九號,42000000.0,2.0,2.0,85.19, Aberdeen/Ap Lei Chau, Hong Kong Island
+MARINELLA 深湾九號,42000000.0,3.0,2.0,103.87, Aberdeen/Ap Lei Chau, Hong Kong Island
+Tsam Chuk Wan 斬竹灣,42000000.0,3.0,2.5,195.1, Sai Kung, New Territories East
+Twin Bay Villas 勝景別墅,41800000.0,3.0,2.0,161.84, Sai Kung, New Territories East
+SKYLINE MANSION 年豐園,41000000.0,2.0,2.0,127.09, Mid Level West, Hong Kong Island
+The Masterpiece 名鑄,40800000.0,2.0,2.0,104.33, Tsimshatsui/Jordan, Kowloon
+Goodview garden 豐景台,40000000.0,3.0,3.0,140.47, Happy Valley/Mid Level East, Hong Kong Island
+The Arch 凱旋門,40000000.0,1.0,1.5,89.28, Kowloon Station, Kowloon
+Valais 天巒,40000000.0,3.0,4.0,190.17, Sheung Shui/Fanling, New Territories East
+The Masterpiece 名鑄,40000000.0,3.0,3.0,95.88, Tsimshatsui/Jordan, Kowloon
+Mirror Marina 鑑波樓,39000000.0,4.0,2.0,165.0, Mid Level West, Hong Kong Island
+The Harbourside 君臨天下,38000000.0,3.0,2.0,97.64, Kowloon Station, Kowloon
+Welldo Villa 威都別墅,38000000.0,6.0,5.0,390.19, Sai Kung, New Territories East
+Mount Pavilia 傲瀧,38000000.0,4.0,4.0,170.38, Sai Kung, New Territories East
+Greenville Gardens 嘉苑,38000000.0,3.0,2.5,120.77, Happy Valley/Mid Level East, Hong Kong Island
+Valais 天巒,38000000.0,3.0,4.0,191.19, Sheung Shui/Fanling, New Territories East
+One Pacific Heights 盈峰一號,38000000.0,5.0,3.0,122.54, Sheung Wan/Central/Admiralty, Hong Kong Island
+Mirror Marina,39000000.0,4.0,2.0,165.0, Mid Level West, Hong Kong Island
+Splendour Villa 雅景閣,37500000.0,2.0,2.0,91.79, Peak/South, Hong Kong Island
+Ha Yeung Village 下洋村,37500000.0,5.0,3.0,195.1, Sai Kung, New Territories East
+The Masterpiece 名鑄,37500000.0,2.0,3.0,105.26, Tsimshatsui/Jordan, Kowloon
+LARVOTTO 南灣,37000000.0,2.0,2.0,107.86, Aberdeen/Ap Lei Chau, Hong Kong Island
+Double Cove 迎海,37000000.0,4.0,2.5,126.53, Shatin, New Territories East
+MARINELLA 深湾九號,36800000.0,3.0,3.0,102.56, Aberdeen/Ap Lei Chau, Hong Kong Island
+DRAGONVIEW COURT 龍騰閣,36800000.0,3.0,2.0,95.13, Mid Level West, Hong Kong Island
+SCENIC VILLAS 美景臺,36000000.0,4.0,2.0,183.76, Peak/South, Hong Kong Island
+STANFORD VILLA 旭逸居,36000000.0,3.0,2.0,79.43, Peak/South, Hong Kong Island
+BAGUIO VILLA 碧瑤灣,36000000.0,3.0,2.0,122.07, Peak/South, Hong Kong Island
+Double Cove 迎海,36000000.0,4.0,2.5,126.53, Shatin, New Territories East
+The Harbourside 君臨天下,36000000.0,3.0,2.0,105.26, Kowloon Station, Kowloon
+Valais 天巒,36000000.0,3.0,4.0,205.87, Sheung Shui/Fanling, New Territories East
+Right Mansion 利德大廈,36000000.0,3.0,3.0,140.19, Mid Level West, Hong Kong Island
+South Bay Palace 南灣御苑,35800000.0,3.0,2.0,121.42, Peak/South, Hong Kong Island
+Manly Mansion 文麗苑,35000000.0,3.0,2.0,160.44, Mid Level West, Hong Kong Island
+Evergreen Villa 松柏新村,35000000.0,3.0,2.5,141.68, Happy Valley/Mid Level East, Hong Kong Island
+FLORA GARDEN 慧景園,35000000.0,3.0,2.5,110.83, Wanchai/Causeway Bay, Hong Kong Island
+The Waterfront 漾日居,35000000.0,3.0,2.0,99.96, Tsimshatsui/Jordan, Kowloon
+BAGUIO VILLA 碧瑤灣,35000000.0,3.0,2.0,126.63, Peak/South, Hong Kong Island
+Splendour Villa 雅景閣,35000000.0,3.0,2.0,79.71, Peak/South, Hong Kong Island
+Constellation Cove 滌濤山,35000000.0,4.0,3.5,215.07, Tai Po Mid Level/Hong Lok Yuen, New Territories East
+The Masterpiece 名鑄,35000000.0,2.0,2.0,94.39, Tsimshatsui/Jordan, Kowloon
+"Sheung Sze Wan, Clearwater Bay 清水灣相思灣",35000000.0,4.0,3.0,195.1, Sai Kung, New Territories East
+Hong Lok Mansion 康樂大廈,35000000.0,3.0,2.5,120.22, Mid Level Central, Hong Kong Island
+31 Robinson Road 羅便臣道31號,35000000.0,3.0,2.0,93.55, Mid Level West, Hong Kong Island
+MARINELLA 深湾九號,35000000.0,2.0,2.0,85.19, Aberdeen/Ap Lei Chau, Hong Kong Island
+Cadogan 加多近山,35000000.0,,1.0,79.53, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Robinson Place 雍景臺,35000000.0,3.0,2.0,104.33, Mid Level West, Hong Kong Island
+MARINELLA 深湾九號,35000000.0,2.0,2.0,85.19, Aberdeen/Ap Lei Chau, Hong Kong Island
+Right Mansion 利德大廈,36000000.0,2.0,2.0,140.19, Mid Level West, Hong Kong Island
+Robinson Place 雍景臺,34800000.0,3.0,2.0,97.36, Mid Level West, Hong Kong Island
+Manly Mansion 文麗苑,34500000.0,3.0,2.0,160.44, Mid Level West, Hong Kong Island
+Greenville Gardens 嘉苑,34500000.0,3.0,2.5,120.77, Happy Valley/Mid Level East, Hong Kong Island
+The Masterpiece 名鑄,34500000.0,2.0,3.0,95.97, Tsimshatsui/Jordan, Kowloon
+Villa Rocha 樂翠台,34000000.0,3.0,2.5,106.56, Happy Valley/Mid Level East, Hong Kong Island
+Valais 天巒,34000000.0,3.0,4.0,189.89, Sheung Shui/Fanling, New Territories East
+The Masterpiece 名鑄,34000000.0,2.0,3.0,105.26, Tsimshatsui/Jordan, Kowloon
+Greenville Gardens 嘉苑,33800000.0,3.0,2.5,111.48, Happy Valley/Mid Level East, Hong Kong Island
+SKYLINE MANSION 年豐園,33800000.0,2.0,2.5,110.93, Mid Level West, Hong Kong Island
+Fairway Vista 翡翠別墅,34800000.0,4.0,3.5,195.1, Sai Kung, New Territories East
+The Legend 名門,33000000.0,3.0,3.5,102.56, Wanchai/Causeway Bay, Hong Kong Island
+Wing Way Court 永威閣,33000000.0,3.0,2.0,137.31, Mid Level Central, Hong Kong Island
+Beau Cloud Mansion 碧雲樓,33000000.0,3.0,2.0,133.5, Mid Level Central, Hong Kong Island
+Long Mansion 長庚大廈,33000000.0,3.0,2.0,150.78, Mid Level West, Hong Kong Island
+The Masterpiece 名鑄,33000000.0,2.0,2.0,104.33, Tsimshatsui/Jordan, Kowloon
+Villa Lotto 樂陶苑,33000000.0,3.0,2.5,103.77, Happy Valley/Mid Level East, Hong Kong Island
+Valais 天巒,33000000.0,4.0,2.0,189.89, Sheung Shui/Fanling, New Territories East
+HARBOUR ONE 維壹,33000000.0,3.0,2.0,104.7, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Right Mansion 利德大廈,32800000.0,3.0,2.0,140.19, Mid Level West, Hong Kong Island
+Valais 天巒,32800000.0,3.0,4.0,171.5, Sheung Shui/Fanling, New Territories East
+Convention Plaza Apartments 會展中心會景閣,33000000.0,2.0,1.0,93.0, Wanchai/Causeway Bay, Hong Kong Island
+FLORA GARDEN 慧景園,32500000.0,3.0,2.5,110.83, Wanchai/Causeway Bay, Hong Kong Island
+FLORA GARDEN 慧景園,32500000.0,3.0,3.0,109.81, Wanchai/Causeway Bay, Hong Kong Island
+Villa Lotto 樂陶苑,32500000.0,3.0,2.5,102.47, Happy Valley/Mid Level East, Hong Kong Island
+BAGUIO VILLA 碧瑤灣,32000000.0,3.0,2.0,120.4, Peak/South, Hong Kong Island
+The Victoria Towers 港景峰,32000000.0,3.0,2.0,80.08, Tsimshatsui/Jordan, Kowloon
+Mandarin Villa 文華新村,32000000.0,3.0,2.5,108.51, Wanchai/Causeway Bay, Hong Kong Island
+REALTY GARDENS 聯邦花園,32000000.0,2.0,2.0,108.32, Mid Level West, Hong Kong Island
+HONG KONG PARKVIEW 陽明山莊,31500000.0,2.0,2.0,93.0, Peak/South, Hong Kong Island
+Ning Yeung Terrace 寧養臺,31000000.0,3.0,2.0,132.67, Mid Level West, Hong Kong Island
+Swiss Towers 瑞士花園,31000000.0,3.0,2.5,117.52, Happy Valley/Mid Level East, Hong Kong Island
+The Belcher's 寶翠園,30880000.0,3.0,2.0,115.57, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Camelot Height 金鑾閣,30800000.0,3.0,2.0,111.3, Happy Valley/Mid Level East, Hong Kong Island
+Mayfair by the Sea 逸瓏灣,30800000.0,4.0,3.0,113.06, Tai Po Market/Tai Wo, New Territories East
+The Hermitage 帝峰‧皇殿,31000000.0,4.0,2.0,103.4, Olympic Station, Kowloon
+BAGUIO VILLA 碧瑤灣,30000000.0,3.0,2.0,123.93, Peak/South, Hong Kong Island
+The Belcher's 寶翠園,30000000.0,3.0,2.0,104.61, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Island Crest 縉城峰,30000000.0,3.0,2.0,81.94, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Sea and Sky Court 海天別墅,30000000.0,3.0,2.0,140.28, Peak/South, Hong Kong Island
+Peninsula Heights 星輝豪庭,30000000.0,3.0,2.5,102.84, Kowloon Tong/Beacon Hill, Kowloon
+The Belcher's 寶翠園,30000000.0,3.0,2.5,88.07, Kennedy Town/Sai Yin Pun, Hong Kong Island
+"Tai Tan Tsuen, Sai Kung 西貢大灘村",30000000.0,5.0,3.0,195.1, Sai Kung, New Territories East
+BAGUIO VILLA 碧瑤灣,30000000.0,3.0,2.0,125.42, Peak/South, Hong Kong Island
+The Masterpiece 名鑄,30000000.0,2.0,3.0,108.14, Tsimshatsui/Jordan, Kowloon
+Lo Tik Wan,29800000.0,4.0,3.0,195.1, Lamma Island, New Territories West
+IMPERIAL COURT 帝豪閣,29800000.0,3.0,2.0,115.76, Mid Level West, Hong Kong Island
+Providence Bay 天賦海灣,29800000.0,3.0,2.5,144.19, Tai Po Mid Level/Hong Lok Yuen, New Territories East
+Cadogan 加多近山,29800000.0,3.0,2.0,85.01, Kennedy Town/Sai Yin Pun, Hong Kong Island
+LYTTELTON GARDEN 俊賢花園,29800000.0,3.0,2.0,80.55, Mid Level West, Hong Kong Island
+GLORY HEIGHTS 嘉和苑,29500000.0,2.0,1.0,68.84, Mid Level West, Hong Kong Island
+MARINELLA 深湾九號,29500000.0,2.0,2.0,77.95, Aberdeen/Ap Lei Chau, Hong Kong Island
+Greenville Gardens 嘉苑,29800000.0,3.0,2.5,120.77, Happy Valley/Mid Level East, Hong Kong Island
+MARINELLA 深湾九號,30000000.0,3.0,2.0,92.9, Aberdeen/Ap Lei Chau, Hong Kong Island
+37 REPULSE BAY ROAD 淺水灣道37號,30000000.0,2.0,2.0,78.78, Peak/South, Hong Kong Island
+Park Garden 柏園,29000000.0,3.0,2.5,105.17, Wanchai/Causeway Bay, Hong Kong Island
+The Waterfront 漾日居,29000000.0,3.0,2.0,98.29, Tsimshatsui/Jordan, Kowloon
+Convention Plaza Apartments 會展中心會景閣,29000000.0,2.0,2.0,78.97, Wanchai/Causeway Bay, Hong Kong Island
+ALBRON COURT 豐樂閣,28500000.0,3.0,3.0,127.0, Mid Level West, Hong Kong Island
+80 Robinson Road 羅便臣道80號,28500000.0,,1.0,78.04, Mid Level West, Hong Kong Island
+80 Robinson Road 羅便臣道80號,28000000.0,3.0,2.0,79.43, Mid Level West, Hong Kong Island
+Chenyu Court 燦如閣,28000000.0,3.0,2.0,105.26, Mid Level Central, Hong Kong Island
+Camelot Height 金鑾閣,28000000.0,3.0,2.0,111.3, Happy Valley/Mid Level East, Hong Kong Island
+Sea and Sky Court 海天別墅,28000000.0,3.0,2.0,140.28, Peak/South, Hong Kong Island
+Grand Court 嘉蘭閣,28000000.0,3.0,2.0,74.23, Happy Valley/Mid Level East, Hong Kong Island
+Hong Lok Yuen 康樂園,28000000.0,3.0,2.0,129.04, Tai Po Market/Tai Wo, New Territories East
+Tuen Mun Court 屯門閣,28000000.0,3.0,3.0,136.1, Sham Tseng/Castle Peak Road (Tuen Mun Portion), New Territories West
+Best View Court 好景大廈,28000000.0,2.0,2.0,121.8, Mid Level Central, Hong Kong Island
+BLUE POOL GARDEN 藍塘花園,28000000.0,3.0,2.5,101.73, Happy Valley/Mid Level East, Hong Kong Island
+The Masterpiece 名鑄,28000000.0,1.0,2.0,75.81, Tsimshatsui/Jordan, Kowloon
+BOTANIC TERRACE 芝蘭台,28000000.0,2.0,2.0,107.4, Mid Level West, Hong Kong Island
+The Green 歌賦嶺,28000000.0,3.0,3.5,252.7, Sheung Shui/Fanling, New Territories East
+REALTY GARDENS 聯邦花園,28000000.0,3.0,2.0,108.32, Mid Level West, Hong Kong Island
+Robinson Place 雍景臺,28000000.0,3.0,2.0,105.72, Mid Level West, Hong Kong Island
+Linden Height 年達園,27380000.0,2.0,2.0,90.39, Wanchai/Causeway Bay, Hong Kong Island
+Robinson Place 雍景臺,27300000.0,3.0,2.0,103.59, Mid Level West, Hong Kong Island
+Sea and Sky Court 海天別墅,27000000.0,3.0,2.0,144.93, Peak/South, Hong Kong Island
+Island Crest 縉城峰,27000000.0,3.0,2.0,81.38, Kennedy Town/Sai Yin Pun, Hong Kong Island
+40-42 Circular Pathway 弓絃巷40-42號,27000000.0,1.0,2.5,92.07, Sheung Wan/Central/Admiralty, Hong Kong Island
+Robinson Place 雍景臺,27000000.0,3.0,2.0,99.68, Mid Level West, Hong Kong Island
+BAGUIO VILLA 碧瑤灣,27000000.0,3.0,2.0,120.4, Peak/South, Hong Kong Island
+AQUA 33,26800000.0,3.0,2.0,123.0, Peak/South, Hong Kong Island
+The Cullinan 天璽,26800000.0,1.0,1.0,51.19, Kowloon Station, Kowloon
+Greenville Gardens 嘉苑,26500000.0,4.0,2.5,112.23, Happy Valley/Mid Level East, Hong Kong Island
+Convention Plaza Apartments 會展中心會景閣,26350000.0,2.0,2.0,103.59, Wanchai/Causeway Bay, Hong Kong Island
+Convention Plaza Apartments 會展中心會景閣,26350000.0,2.0,1.0,103.59, Wanchai/Causeway Bay, Hong Kong Island
+Star Crest 星域軒,26000000.0,2.0,1.0,66.8, Wanchai/Causeway Bay, Hong Kong Island
+Star Crest 星域軒,26000000.0,2.0,1.0,73.11, Wanchai/Causeway Bay, Hong Kong Island
+Best View Court 好景大廈,26000000.0,3.0,2.0,121.8, Mid Level Central, Hong Kong Island
+Celeste Court 蔚雲閣,26000000.0,3.0,2.5,87.89, Happy Valley/Mid Level East, Hong Kong Island
+Goodview Court 欣翠閣,26000000.0,2.0,2.0,96.99, Sheung Wan/Central/Admiralty, Hong Kong Island
+Grand Austin,26000000.0,3.0,2.0,82.96, Olympic Station, Kowloon
+Ronsdale Garden 龍華花園,26000000.0,3.0,2.5,90.67, Wanchai/Causeway Bay, Hong Kong Island
+The Legend 名門,26000000.0,3.0,2.0,80.92, Wanchai/Causeway Bay, Hong Kong Island
+Robinson Place 雍景臺,26000000.0,3.0,2.0,99.13, Mid Level West, Hong Kong Island
+The Waterfront 漾日居,26000000.0,3.0,2.0,87.61, Tsimshatsui/Jordan, Kowloon
+Cheung Yick Industrial Building 長益工業大廈,26488000.0,,1.0,832.88, Shau Kei Wan/Chai Wan/Island Resort, Hong Kong Island
+Elegant Terrace 慧明苑,25500000.0,3.0,2.0,95.41, Mid Level West, Hong Kong Island
+Greenery Garden 怡林閣,25500000.0,3.0,2.0,121.61, Peak/South, Hong Kong Island
+Ng Fai Tin Village 五塊田,25500000.0,4.0,3.0,195.1, Sai Kung, New Territories East
+Elegant Terrace 慧明苑,26000000.0,5.0,2.0,95.41, Mid Level West, Hong Kong Island
+Convention Plaza Apartments 會展中心會景閣,25500000.0,2.0,1.0,91.42, Wanchai/Causeway Bay, Hong Kong Island
+Monticello 滿峰台,25000000.0,3.0,2.0,102.84, Happy Valley/Mid Level East, Hong Kong Island
+39 Lyttelton Road 列堤頓道39號,25000000.0,2.0,2.0,89.09, Mid Level West, Hong Kong Island
+Merry Garden 豐樂新村,25000000.0,3.0,2.0,90.58, Wanchai/Causeway Bay, Hong Kong Island
+BAGUIO VILLA 碧瑤灣,25000000.0,2.0,2.0,90.67, Peak/South, Hong Kong Island
+MARINELLA 深湾九號,25000000.0,1.0,1.0,55.37, Aberdeen/Ap Lei Chau, Hong Kong Island
+Soho 189 西浦,25000000.0,3.0,2.5,82.03, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Shun Hing Building 順興大廈,25000000.0,2.0,2.0,70.79, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Greenville Gardens 嘉苑,25000000.0,3.0,2.5,107.58, Happy Valley/Mid Level East, Hong Kong Island
+Gardenview Heights 嘉景臺,25000000.0,3.0,2.0,97.46, Wanchai/Causeway Bay, Hong Kong Island
+MARINELLA 深湾九號,25000000.0,1.0,1.0,55.28, Aberdeen/Ap Lei Chau, Hong Kong Island
+The Masterpiece 名鑄,25000000.0,1.0,1.0,56.3, Tsimshatsui/Jordan, Kowloon
+Cheung Yick Industrial Building 長益工業大廈,25688800.0,,1.0,832.88, Shau Kei Wan/Chai Wan/Island Resort, Hong Kong Island
+Mau Po 茅莆,24800000.0,4.0,3.0,195.1, Sai Kung, New Territories East
+LARVOTTO 南灣,24800000.0,3.0,2.0,72.84, Aberdeen/Ap Lei Chau, Hong Kong Island
+Kam Ning Mansion 金寧大廈,24500000.0,2.0,2.0,102.01, Mid Level West, Hong Kong Island
+Altro 懿山,24500000.0,3.0,2.0,74.32, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Residence Bel-air* 貝沙灣,24500000.0,2.0,1.0,60.67, Bel-Air, Hong Kong Island
+The Austin,24500000.0,3.0,2.0,80.08, Kowloon Station, Kowloon
+One Wanchai,24280000.0,3.0,2.0,79.53, Wanchai/Causeway Bay, Hong Kong Island
+Yue Yan Mansion 裕仁大廈,24000000.0,3.0,2.0,133.97, Peak/South, Hong Kong Island
+Monticello 滿峰台,24000000.0,3.0,2.0,102.84, Happy Valley/Mid Level East, Hong Kong Island
+Island Crest 縉城峰,24000000.0,3.0,2.0,70.51, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Star Crest 星域軒,24000000.0,3.0,2.0,83.43, Wanchai/Causeway Bay, Hong Kong Island
+Kensington Hill 高街98號,24000000.0,3.0,2.0,74.69, Kennedy Town/Sai Yin Pun, Hong Kong Island
+MARINELLA 深湾九號,24000000.0,1.0,1.0,55.28, Aberdeen/Ap Lei Chau, Hong Kong Island
+The Waterfront 漾日居,24000000.0,3.0,2.0,87.42, Tsimshatsui/Jordan, Kowloon
+The Oakhill 萃峰,23950000.0,3.0,3.0,81.29, Wanchai/Causeway Bay, Hong Kong Island
+Kingsfield Garden 康輝園,23900000.0,3.0,2.0,109.16, North Point/Fortress Hill, Hong Kong Island
+Island Crest 縉城峰,23800000.0,3.0,2.0,70.89, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Serenade 上林,23800000.0,3.0,2.0,73.21, Wanchai/Causeway Bay, Hong Kong Island
+The Waterfront 漾日居,23800000.0,3.0,2.0,80.83, Tsimshatsui/Jordan, Kowloon
+Sunny Villa 新麗苑,23600000.0,4.0,3.0,186.27, Tsuen Wan, New Territories West
+The Belcher's 寶翠園,23530000.0,2.0,2.0,69.58, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Green View Mansion 翠景樓,23500000.0,2.0,2.0,85.94, Happy Valley/Mid Level East, Hong Kong Island
+Full View Court 富威閣,23500000.0,2.0,2.5,87.24, Happy Valley/Mid Level East, Hong Kong Island
+Convention Plaza Apartments 會展中心會景閣,23699000.0,1.0,1.0,69.49, Wanchai/Causeway Bay, Hong Kong Island
+Green Villa 嘉翠苑,23800000.0,3.0,2.0,154.31, Sai Kung, New Territories East
+Island Crest 縉城峰,23200000.0,3.0,2.0,70.79, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Robinson Heights 樂信臺,23000000.0,2.0,2.0,70.33, Mid Level West, Hong Kong Island
+Greenville Gardens 嘉苑,23000000.0,3.0,2.5,107.58, Happy Valley/Mid Level East, Hong Kong Island
+Mayfair by the Sea 逸瓏灣,23000000.0,3.0,1.0,68.1, Tai Po Market/Tai Wo, New Territories East
+Mayfair by the Sea 逸瓏灣,23000000.0,3.0,2.0,95.88, Tai Po Market/Tai Wo, New Territories East
+Valais 天巒,23000000.0,3.0,3.0,150.04, Sheung Shui/Fanling, New Territories East
+The Warren 瑆華,23000000.0,2.0,2.0,56.67, Wanchai/Causeway Bay, Hong Kong Island
+Pak Kong Village House,22800000.0,4.0,4.0,195.1, Sai Kung, New Territories East
+Hing Keng Shek 慶徑石,22800000.0,3.0,2.5,195.1, Sai Kung, New Territories East
+Convention Plaza Apartments 會展中心會景閣,23000000.0,2.0,1.0,91.97, Wanchai/Causeway Bay, Hong Kong Island
+Caribbean Villa 碧雲苑,22500000.0,4.0,3.5,195.1, Sai Kung, New Territories East
+GRAMERCY 瑧環,22308000.0,2.0,2.0,62.8, Mid Level West, Hong Kong Island
+Phoenix Court 鳳凰閣,22000000.0,3.0,2.0,103.96, Wanchai/Causeway Bay, Hong Kong Island
+Kensington Hill 高街98號,22000000.0,3.0,2.0,71.16, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Discovery Bay 愉景灣,22000000.0,3.0,2.0,153.29, Discovery Bay/Islands, New Territories West
+Shan Kwong Towers 山光苑,22000000.0,3.0,2.0,81.75, Happy Valley/Mid Level East, Hong Kong Island
+Billion Terrace 千葉居,22000000.0,2.0,2.0,72.84, Happy Valley/Mid Level East, Hong Kong Island
+The Pavilia Hill 柏傲山,22000000.0,2.0,2.0,66.61, Wanchai/Causeway Bay, Hong Kong Island
+The Masterpiece 名鑄,22000000.0,1.0,1.0,56.67, Tsimshatsui/Jordan, Kowloon
+The Masterpiece 名鑄,22000000.0,1.0,1.5,56.11, Tsimshatsui/Jordan, Kowloon
+Greencliff 翠壁,22000000.0,2.0,2.0,88.63, Happy Valley/Mid Level East, Hong Kong Island
+The Waterfront 漾日居,22000000.0,3.0,2.0,73.77, Tsimshatsui/Jordan, Kowloon
+LARVOTTO 南灣,22000000.0,3.0,2.0,94.11, Aberdeen/Ap Lei Chau, Hong Kong Island
+ALASSIO 殷然,21800000.0,2.0,1.0,54.44, Mid Level West, Hong Kong Island
+2 Park Road 柏道2號,21800000.0,3.0,2.0,74.14, Mid Level West, Hong Kong Island
+The Masterpiece 名鑄,21800000.0,1.0,2.0,75.81, Tsimshatsui/Jordan, Kowloon
+Yuen Ming Building 元明大廈,21580000.0,2.0,2.0,111.48, Mid Level West, Hong Kong Island
+Cadogan 加多近山,21500000.0,3.0,2.0,85.01, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Nam Pin Wai 南邊圍,21500000.0,5.0,2.5,195.1, Sai Kung, New Territories East
+MARINELLA 深湾九號,21500000.0,1.0,1.0,55.28, Aberdeen/Ap Lei Chau, Hong Kong Island
+The Green 歌賦嶺,21000000.0,1.0,1.0,188.78, Sheung Shui/Fanling, New Territories East
+Monmouth Place 萬信臺,21000000.0,3.0,2.0,89.37, Wanchai/Causeway Bay, Hong Kong Island
+Mandarin Villa 文華新村,21000000.0,2.0,2.0,58.44, Wanchai/Causeway Bay, Hong Kong Island
+Royal Court 皇朝閣,21000000.0,3.0,2.0,65.22, Wanchai/Causeway Bay, Hong Kong Island
+The Austin,21000000.0,2.0,2.0,60.11, Kowloon Station, Kowloon
+Green Villas 嘉翠苑,21000000.0,2.0,2.0,154.31, Sai Kung, New Territories East
+Discovery Bay 愉景灣,21000000.0,3.0,2.5,120.31, Discovery Bay/Islands, New Territories West
+Four Winds 恆琪園,21000000.0,3.0,1.5,90.77, Peak/South, Hong Kong Island
+The Green 歌賦嶺,21000000.0,,1.0,122.17, Sheung Shui/Fanling, New Territories East
+Kam Kin Mansion 金堅大廈,20800000.0,3.0,2.0,97.55, Mid Level West, Hong Kong Island
+2 Wang Tak Street 宏德街2號,20800000.0,3.0,2.0,94.48, Happy Valley/Mid Level East, Hong Kong Island
+Winner Court 榮華閣,20800000.0,3.0,2.0,95.97, Mid Level West, Hong Kong Island
+Blue Pool Lodge 愉苑,20680000.0,3.0,2.5,100.89, Happy Valley/Mid Level East, Hong Kong Island
+Four Winds 恆琪園,21000000.0,3.0,1.5,90.77, Peak/South, Hong Kong Island
+Yue Yan Mansion 裕仁大廈,20500000.0,2.0,2.0,95.88, Peak/South, Hong Kong Island
+1 Tai Hang Road 大坑道1號,20380000.0,3.0,2.0,81.01, Happy Valley/Mid Level East, Hong Kong Island
+Phoenix Court 鳳凰閣,20000000.0,2.0,2.0,106.0, Wanchai/Causeway Bay, Hong Kong Island
+Grandview Tower 慧景臺,20000000.0,3.0,2.0,74.32, Mid Level West, Hong Kong Island
+Four Winds 恆琪園,20000000.0,3.0,1.5,90.77, Peak/South, Hong Kong Island
+Hawthorn Garden 荷塘苑,20000000.0,3.0,2.0,77.3, Happy Valley/Mid Level East, Hong Kong Island
+Jardine Summit 渣甸豪庭,19900000.0,3.0,2.0,70.89, Wanchai/Causeway Bay, Hong Kong Island
+ALASSIO 殷然,19800000.0,2.0,1.0,53.98, Mid Level West, Hong Kong Island
+Convention Plaza Apartments 會展中心會景閣,19800000.0,1.0,1.0,67.82, Wanchai/Causeway Bay, Hong Kong Island
+1D High Street 高街1D號,19500000.0,2.0,2.0,93.83, Kennedy Town/Sai Yin Pun, Hong Kong Island
+BLESSINGS GARDEN 殷樺花園,19500000.0,3.0,3.0,76.09, Mid Level West, Hong Kong Island
+GRAMERCY 瑧環,19500000.0,2.0,1.0,60.39, Mid Level West, Hong Kong Island
+Ronsdale Garden 龍華花園,19500000.0,2.0,2.0,64.47, Wanchai/Causeway Bay, Hong Kong Island
+40-42 Gough Street 歌賦街40-42號,19000000.0,2.0,2.0,75.34, Sheung Wan/Central/Admiralty, Hong Kong Island
+Ng Fai Tin Village 五塊田,19000000.0,4.0,3.0,162.58, Sai Kung, New Territories East
+Greenery Garden 怡林閣,19000000.0,3.0,2.0,95.13, Peak/South, Hong Kong Island
+Pak Shek Terrace,19000000.0,5.0,3.0,195.1, Sai Kung, New Territories East
+Ronsdale Garden 龍華花園,19000000.0,3.0,2.0,64.47, Wanchai/Causeway Bay, Hong Kong Island
+Royal Court 皇朝閣,18900000.0,3.0,2.0,65.22, Wanchai/Causeway Bay, Hong Kong Island
+BAGUIO VILLA 碧瑤灣,18800000.0,2.0,2.0,90.67, Peak/South, Hong Kong Island
+Phoenix Court 鳳凰閣,18800000.0,3.0,2.0,103.96, Wanchai/Causeway Bay, Hong Kong Island
+Greencliff 翠壁,18800000.0,2.0,2.0,88.63, Happy Valley/Mid Level East, Hong Kong Island
+Residence Bel-air* 貝沙灣,19200000.0,2.0,2.0,67.17, Bel-Air, Hong Kong Island
+Residence Bel-air* 貝沙灣,19000000.0,2.0,2.0,66.15, Bel-Air, Hong Kong Island
+2 Park Road 柏道2號,18500000.0,2.0,2.0,53.88, Mid Level West, Hong Kong Island
+Grandview Tower 慧景臺,18500000.0,3.0,2.0,68.28, Mid Level West, Hong Kong Island
+Providence Bay 天賦海灣,18500000.0,3.0,2.0,103.49, Tai Po Mid Level/Hong Lok Yuen, New Territories East
+Lexington Hill,18500000.0,2.0,1.0,72.93, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Caroline Garden 加路連花園,18500000.0,2.0,2.0,69.86, Happy Valley/Mid Level East, Hong Kong Island
+BAGUIO VILLA 碧瑤灣,18500000.0,2.0,2.0,84.17, Peak/South, Hong Kong Island
+Caroline Garden 加路連花園,18500000.0,3.0,2.0,69.86, Happy Valley/Mid Level East, Hong Kong Island
+GRAMERCY 瑧環,18800000.0,2.0,1.0,60.39, Mid Level West, Hong Kong Island
+Avalon 雅景軒,18300000.0,1.0,1.5,63.92, Wanchai/Causeway Bay, Hong Kong Island
+Way Man Court 匯文樓,18000000.0,3.0,2.0,87.98, Happy Valley/Mid Level East, Hong Kong Island
+Peninsula East -,18000000.0,3.0,2.0,80.73, Lam Tin/Yau Tong, Kowloon
+KIN YUEN MANSION 堅苑,18000000.0,2.0,1.0,49.24, Mid Level West, Hong Kong Island
+Illumination Terrace 光明臺,18000000.0,3.0,1.0,67.91, Happy Valley/Mid Level East, Hong Kong Island
+Convention Plaza Apartments 會展中心會景閣,18000000.0,1.0,1.0,57.88, Wanchai/Causeway Bay, Hong Kong Island
+Cherry Crest 翠麗軒,18000000.0,3.0,2.0,71.72, Sheung Wan/Central/Admiralty, Hong Kong Island
+Cherry Crest 翠麗軒,18000000.0,3.0,2.0,64.66, Sheung Wan/Central/Admiralty, Hong Kong Island
+Hollywood Terrace 荷李活華庭,18000000.0,3.0,2.0,71.16, Sheung Wan/Central/Admiralty, Hong Kong Island
+Friendship Court 友誼大廈,17500000.0,3.0,2.0,61.97, Happy Valley/Mid Level East, Hong Kong Island
+Providence Bay 天賦海灣,17500000.0,4.0,3.0,95.41, Tai Po Mid Level/Hong Lok Yuen, New Territories East
+Providence Bay 天賦海灣,17500000.0,3.0,3.0,95.41, Tai Po Mid Level/Hong Lok Yuen, New Territories East
+Centre Point 尚賢居,17500000.0,3.0,2.0,62.43, Sheung Wan/Central/Admiralty, Hong Kong Island
+Island Crest 縉城峰,17400000.0,2.0,1.0,51.75, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Caroline Garden 加路連花園,17600000.0,3.0,2.0,70.42, Happy Valley/Mid Level East, Hong Kong Island
+Island Crest 縉城峰,17200000.0,2.0,1.0,51.75, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Peacock Mansion 孔翠樓,17000000.0,2.0,1.0,71.44, Mid Level West, Hong Kong Island
+Island Crest 縉城峰,17000000.0,2.0,1.0,51.93, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Woodland Court 福臨閣,17000000.0,1.0,1.0,42.36, Mid Level West, Hong Kong Island
+Richery Garden 德信花園,17000000.0,2.0,1.0,64.94, Happy Valley/Mid Level East, Hong Kong Island
+Caroline Garden 加路連花園,17000000.0,3.0,2.0,74.14, Happy Valley/Mid Level East, Hong Kong Island
+2 Park Road 柏道2號,17000000.0,2.0,2.0,56.11, Mid Level West, Hong Kong Island
+Pioneer Court 柏莉園,16800000.0,2.0,1.0,53.61, Happy Valley/Mid Level East, Hong Kong Island
+Europa Garden 歐意花園,16800000.0,3.0,3.0,138.24, Sheung Shui/Fanling, New Territories East
+2 Park Road 柏道2號,16800000.0,2.0,2.0,59.83, Mid Level West, Hong Kong Island
+15-16 Li Kwan Avenue 利群道15-16號,16800000.0,3.0,2.0,68.56, Wanchai/Causeway Bay, Hong Kong Island
+Miramar Villa 美麗村,16800000.0,3.0,2.0,80.92, Happy Valley/Mid Level East, Hong Kong Island
+2 Park Road 柏道2號,16800000.0,2.0,1.0,59.64, Mid Level West, Hong Kong Island
+BAGUIO VILLA 碧瑤灣,16600000.0,3.0,2.0,90.67, Peak/South, Hong Kong Island
+Peninsula East -,16500000.0,3.0,2.0,80.73, Lam Tin/Yau Tong, Kowloon
+ROWEN COURT 樂賢居,16500000.0,2.0,1.0,65.78, Mid Level West, Hong Kong Island
+33 Village Terrace 山村臺33號,16500000.0,2.0,2.0,102.47, Happy Valley/Mid Level East, Hong Kong Island
+Goldwin Heights 高雲臺,16500000.0,3.0,2.0,74.51, Mid Level West, Hong Kong Island
+Soho 38 Soho 38,16000000.0,2.0,1.0,47.01, Mid Level West, Hong Kong Island
+Constellation Cove 滌濤山,16000000.0,3.0,3.0,101.17, Tai Po Mid Level/Hong Lok Yuen, New Territories East
+CONDUIT TOWER 君德閣,16000000.0,2.0,1.0,52.68, Mid Level West, Hong Kong Island
+BAGUIO VILLA 碧瑤灣,16000000.0,2.0,1.0,90.67, Peak/South, Hong Kong Island
+Hillsborough Court 曉峰閣,16000000.0,2.0,1.0,62.9, Mid Level Central, Hong Kong Island
+Imperial Cullinan 瓏璽,16000000.0,3.0,2.0,48.68, Olympic Station, Kowloon
+Long Mei Village 朗尾,15980000.0,4.0,3.0,195.1, Sai Kung, New Territories East
+Chong Yuen 暢園,15950000.0,3.0,2.0,71.26, Sheung Wan/Central/Admiralty, Hong Kong Island
+Hollywood Terrace 荷李活華庭,15900000.0,1.0,1.0,57.23, Sheung Wan/Central/Admiralty, Hong Kong Island
+Tai Au Mun 大坳門,15800000.0,3.0,3.5,130.06, Sai Kung, New Territories East
+Kam Kin Mansion 金堅大廈,15800000.0,1.0,1.5,52.03, Mid Level West, Hong Kong Island
+Vantage Park 慧豪閣,15700000.0,2.0,2.0,59.09, Mid Level West, Hong Kong Island
+Greenway Terrace 匯翠台,15600000.0,3.0,2.0,59.74, Happy Valley/Mid Level East, Hong Kong Island
+PRIMROSE COURT 蔚華閣,15500000.0,3.0,2.0,61.22, Mid Level West, Hong Kong Island
+THE ICON -,15500000.0,2.0,1.0,47.01, Mid Level West, Hong Kong Island
+PEAKSVILLE 蔚巒閣,15500000.0,,1.0,60.57, Mid Level West, Hong Kong Island
+Bel Mount Garden 百麗花園,15300000.0,1.0,1.0,47.85, Sheung Wan/Central/Admiralty, Hong Kong Island
+Discovery Bay 愉景灣,15200000.0,3.0,2.0,102.94, Discovery Bay/Islands, New Territories West
+Palm Court 聚安閣,15000000.0,2.0,3.0,60.76, Happy Valley/Mid Level East, Hong Kong Island
+Corona Tower 嘉景臺,15000000.0,3.0,2.0,65.03, Mid Level West, Hong Kong Island
+Casas Domingo 嘉麗山莊,15000000.0,3.0,3.0,140.38, Sheung Shui/Fanling, New Territories East
+THE PIERRE 加冕臺,15000000.0,1.0,1.0,39.02, Mid Level West, Hong Kong Island
+H & S Building 嘉柏大廈,15000000.0,3.0,1.0,59.92, Happy Valley/Mid Level East, Hong Kong Island
+Kingearn Building 興揚大廈,14950000.0,1.0,1.0,49.52, Mid Level West, Hong Kong Island
+Jade Terrace 華翠臺,14900000.0,3.0,2.0,58.71, Wanchai/Causeway Bay, Hong Kong Island
+Villa Serene 兆和軒,14900000.0,1.0,1.0,63.17, Sheung Wan/Central/Admiralty, Hong Kong Island
+THE REDNAXELA 帝華臺,14800000.0,3.0,2.0,62.34, Mid Level West, Hong Kong Island
+SHAM WAN TOWERS 深灣軒,14800000.0,2.0,2.0,54.63, Aberdeen/Ap Lei Chau, Hong Kong Island
+Soho 38 Soho 38,14600000.0,2.0,1.0,45.34, Mid Level West, Hong Kong Island
+Soho 38 Soho 38,14600000.0,2.0,1.0,45.43, Mid Level West, Hong Kong Island
+Kam Wing Villa 錦榮花園,14500000.0,4.0,3.5,200.67, Yuen Long, New Territories West
+Bel Mount Garden 百麗花園,14500000.0,2.0,1.0,47.47, Sheung Wan/Central/Admiralty, Hong Kong Island
+Floral Tower 福熙苑,14500000.0,2.0,2.0,58.06, Mid Level West, Hong Kong Island
+THE PIERRE 加冕臺,14500000.0,1.0,1.0,37.63, Mid Level West, Hong Kong Island
+Centre Point 尚賢居,14500000.0,2.0,1.0,52.49, Sheung Wan/Central/Admiralty, Hong Kong Island
+Gold King Mansion 高景大廈,14500000.0,2.0,1.0,52.68, Wanchai/Causeway Bay, Hong Kong Island
+THE SUMMA 高士台,14500000.0,1.0,1.0,46.92, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Discovery Bay 愉景灣,14280000.0,3.0,2.0,119.1, Discovery Bay/Islands, New Territories West
+GRAMERCY 瑧環,14500000.0,1.0,1.0,41.53, Mid Level West, Hong Kong Island
+Island Crest 縉城峰,14000000.0,2.0,1.0,43.11, Kennedy Town/Sai Yin Pun, Hong Kong Island
+1 Tai Hang Road 大坑道1號,14000000.0,1.0,1.0,53.42, Happy Valley/Mid Level East, Hong Kong Island
+Island Crest 縉城峰,14000000.0,2.0,1.0,42.64, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Island Crest 縉城峰,14000000.0,2.0,1.0,42.64, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Bel Mount Garden 百麗花園,14000000.0,2.0,1.0,47.47, Sheung Wan/Central/Admiralty, Hong Kong Island
+LARVOTTO 南灣,14000000.0,2.0,2.0,55.37, Aberdeen/Ap Lei Chau, Hong Kong Island
+LARVOTTO 南灣,14000000.0,2.0,2.0,57.32, Aberdeen/Ap Lei Chau, Hong Kong Island
+THE REDNAXELA 帝華臺,13990000.0,3.0,2.0,59.18, Mid Level West, Hong Kong Island
+Jing Tai Garden Mansion 正大花園,13990000.0,2.0,2.0,72.37, Mid Level West, Hong Kong Island
+THE PIERRE 加冕臺,13980000.0,1.0,1.0,34.19, Mid Level West, Hong Kong Island
+Convention Plaza Apartments 會展中心會景閣,14100000.0,1.0,1.0,61.22, Wanchai/Causeway Bay, Hong Kong Island
+Convention Plaza Apartments 會展中心會景閣,14000000.0,1.0,1.0,57.97, Wanchai/Causeway Bay, Hong Kong Island
+Centre Place 匯賢居,13800000.0,2.0,1.0,40.6, Mid Level West, Hong Kong Island
+NAMNING MANSION 南寧大廈,13800000.0,1.0,1.0,48.77, Mid Level West, Hong Kong Island
+60 Victoria Road 域多利道60號,13800000.0,1.0,1.0,52.49, Kennedy Town/Sai Yin Pun, Hong Kong Island
+6 Mee Lun Street 美輪街6號,13600000.0,2.0,1.0,57.79, Sheung Wan/Central/Admiralty, Hong Kong Island
+Caine Mansion 堅都大廈,13500000.0,,1.0,45.52, Mid Level West, Hong Kong Island
+Chun Hing Mansion 珍慶樓,13500000.0,2.0,2.0,65.5, Happy Valley/Mid Level East, Hong Kong Island
+Woodlands Terrace 嘉倫軒,13500000.0,1.0,1.0,55.74, Mid Level West, Hong Kong Island
+GRAMERCY 瑧環,13470000.0,1.0,1.0,41.71, Mid Level West, Hong Kong Island
+Tai Hang Terrace 大坑台,13200000.0,2.0,1.0,47.47, Wanchai/Causeway Bay, Hong Kong Island
+Altro 懿山,13000000.0,2.0,1.0,41.81, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Triumph Terrace 凱旋居,13000000.0,3.0,1.0,70.23, Ho Man Tin/King's Park, Kowloon
+SCENIC RISE 御景臺,13000000.0,2.0,1.0,45.89, Mid Level West, Hong Kong Island
+ALL FIT GARDEN 百合苑,13000000.0,2.0,1.0,51.19, Mid Level West, Hong Kong Island
+45 Seymour Road/134 Caine Road,13000000.0,2.0,2.0,48.68, Mid Level West, Hong Kong Island
+Discovery Bay 愉景灣,13000000.0,3.0,2.0,102.94, Discovery Bay/Islands, New Territories West
+FAIRVIEW HEIGHT 輝煌臺,12950000.0,1.0,1.0,47.47, Mid Level West, Hong Kong Island
+The Long Beach 浪澄灣,12800000.0,2.0,1.0,50.73, Olympic Station, Kowloon
+Peace House 愉都大廈,12600000.0,2.0,2.0,70.89, Mid Level North Point, Hong Kong Island
+Sherwood Court 誠和閣,12600000.0,3.0,2.0,64.38, Happy Valley/Mid Level East, Hong Kong Island
+Mayfair by the Sea 逸瓏灣,12550000.0,3.0,2.0,84.82, Tai Po Market/Tai Wo, New Territories East
+Tim Po Court 添寶閣,12500000.0,2.0,1.0,47.66, Mid Level West, Hong Kong Island
+Queen's Terrace 帝后華庭,12500000.0,2.0,1.0,48.31, Sheung Wan/Central/Admiralty, Hong Kong Island
+Cite 33 百匯軒,12500000.0,2.0,1.0,45.62, Mongkok/Yaumatei, Kowloon
+Chatswood Villa 萬翠花園,12500000.0,1.0,1.0,53.23, Mid Level West, Hong Kong Island
+Valiant Park 駿豪閣,12500000.0,2.0,1.0,48.4, Mid Level West, Hong Kong Island
+122 Hollywood Road 荷李活道122號,12500000.0,2.0,1.0,61.41, Mid Level West, Hong Kong Island
+Shiu King Court 兆景閣,12500000.0,1.0,1.0,48.87, Sheung Wan/Central/Admiralty, Hong Kong Island
+Discovery Bay 愉景灣,12500000.0,3.0,2.0,83.61, Discovery Bay/Islands, New Territories West
+Cadogan 加多近山,12500000.0,1.0,1.0,38.09, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Cadogan 加多近山,12500000.0,1.0,1.0,38.28, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Academic Terrace 學士臺,12500000.0,3.0,2.0,60.29, Kennedy Town/Sai Yin Pun, Hong Kong Island
+King Inn Mansion 景怡大廈,12300000.0,3.0,1.0,57.23, Happy Valley/Mid Level East, Hong Kong Island
+Hollywood Terrace 荷李活華庭,12100000.0,2.0,1.0,58.62, Sheung Wan/Central/Admiralty, Hong Kong Island
+11-13 Old Bailey Street 奧卑利街11-13號,12000000.0,1.0,1.0,27.5, Sheung Wan/Central/Admiralty, Hong Kong Island
+GRAMERCY 瑧環,12000000.0,1.0,1.0,35.3, Mid Level West, Hong Kong Island
+Tse Land Mansion 紫蘭樓,12000000.0,2.0,1.0,60.39, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Ryan Mansion 樂欣大廈,12000000.0,1.0,2.0,47.38, Mid Level West, Hong Kong Island
+Cimbria Court 金碧閣,11980000.0,2.0,1.0,46.08, Mid Level West, Hong Kong Island
+Convention Plaza Apartments 會展中心會景閣,11883200.0,,1.0,38.83, Wanchai/Causeway Bay, Hong Kong Island
+GRAMERCY 瑧環,12000000.0,1.0,1.0,36.88, Mid Level West, Hong Kong Island
+Grand Scholar 博仕臺,11500000.0,2.0,1.0,46.36, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Island Crest 縉城峰,11500000.0,1.0,1.0,34.75, Kennedy Town/Sai Yin Pun, Hong Kong Island
+3 Chico Terrace 芝古臺3號,11500000.0,1.0,1.0,51.28, Mid Level West, Hong Kong Island
+Cadogan 加多近山,11500000.0,1.0,1.0,38.28, Kennedy Town/Sai Yin Pun, Hong Kong Island
+JADEWATER 南灣御園,11500000.0,3.0,2.0,61.69, Aberdeen/Ap Lei Chau, Hong Kong Island
+GRAMERCY 瑧環,11400000.0,1.0,1.0,35.3, Mid Level West, Hong Kong Island
+May Mansion 美華閣,11600000.0,1.0,1.0,44.5, Happy Valley/Mid Level East, Hong Kong Island
+Fook Kee Court 福祺閣,11000000.0,1.0,2.0,41.53, Mid Level West, Hong Kong Island
+ON FUNG BUILDING 安峰大廈,11000000.0,3.0,1.0,50.07, Mid Level West, Hong Kong Island
+York Place 莊士敦道22號,11000000.0,1.0,1.0,37.9, Wanchai/Causeway Bay, Hong Kong Island
+Aquamarine Garden 海慧花園,11000000.0,2.0,2.0,66.52, Tuen Mun, New Territories West
+CARAVAN COURT 嘉年華閣,11000000.0,1.0,1.0,49.24, Mid Level West, Hong Kong Island
+THE PIERRE 加冕臺,11000000.0,1.0,1.0,28.52, Mid Level West, Hong Kong Island
+Academic Terrace 學士臺,11000000.0,1.0,1.0,49.33, Kennedy Town/Sai Yin Pun, Hong Kong Island
+South Bay Villas 南灣新邨,11111111.0,1.0,1.0,23.69, Peak/South, Hong Kong Island
+Tim Po Court 添寶閣,10800000.0,3.0,1.0,47.66, Mid Level West, Hong Kong Island
+The Metropolis Residence 都會軒,10800000.0,2.0,1.0,43.76, Hung Hum, Kowloon
+Mayfair by the Sea 逸瓏灣,10800000.0,2.0,1.0,59.18, Tai Po Market/Tai Wo, New Territories East
+Mayfair by the Sea 逸瓏灣,10800000.0,2.0,1.0,59.18, Tai Po Market/Tai Wo, New Territories East
+May Mansion 美華閣,10900000.0,1.0,1.0,44.5, Happy Valley/Mid Level East, Hong Kong Island
+Paterson Building 百德大廈,10500000.0,3.0,1.0,63.92, Wanchai/Causeway Bay, Hong Kong Island
+PARK HEIGHT 柏苑,10500000.0,2.0,1.0,38.74, Mid Level West, Hong Kong Island
+GRAMERCY 瑧環,10500000.0,1.0,1.0,32.52, Mid Level West, Hong Kong Island
+Lo So Shing 蘆鬚城,10500000.0,4.0,3.0,161.19, Lamma Island, New Territories West
+Lechler Court 麗恩閣,10500000.0,2.0,1.0,41.99, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Lo So Shing 蘆鬚城,10500000.0,4.0,3.0,161.19, Lamma Island, New Territories West
+Tim Po Court 添寶閣,10300000.0,3.0,2.5,45.8, Mid Level West, Hong Kong Island
+1 U Lam Terrace 裕林臺 1 號,10200000.0,1.0,1.0,54.81, Sheung Wan/Central/Admiralty, Hong Kong Island
+Wilton Place 蔚庭軒,10200000.0,2.0,1.0,41.43, Mid Level West, Hong Kong Island
+GRAMERCY 瑧環,10500000.0,,1.0,27.5, Mid Level West, Hong Kong Island
+33-35 Robinson Road 羅便臣道33-35號,10500000.0,2.0,1.0,53.98, Mid Level West, Hong Kong Island
+64 Centre Street 正街64號,10000000.0,2.0,1.0,48.77, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Jadeview Court 佳景閣,10000000.0,2.0,2.0,43.2, Kennedy Town/Sai Yin Pun, Hong Kong Island
+J Residence 嘉薈軒,10000000.0,1.0,1.0,40.78, Wanchai/Causeway Bay, Hong Kong Island
+KAM FUNG MANSION 金風大廈,10000000.0,2.0,1.0,39.76, Sheung Wan/Central/Admiralty, Hong Kong Island
+Cadogan 加多近山,10000000.0,1.0,1.0,38.28, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Jadestone Court 寶玉閣,9900000.0,1.0,1.0,34.37, Mid Level West, Hong Kong Island
+ALL FIT GARDEN 百合苑,9900000.0,1.0,1.0,38.74, Mid Level West, Hong Kong Island
+Wing Fung Building 榮豐大樓,9830000.0,4.0,,70.98, Tsimshatsui/Jordan, Kowloon
+Hung Shing Ye 洪聖爺,9800000.0,3.0,3.0,130.06, Lamma Island, New Territories West
+South Horizons 海怡半島,9800000.0,2.0,1.0,53.98, Aberdeen/Ap Lei Chau, Hong Kong Island
+Tong Nam Mansion 東南大廈,9800000.0,,1.0,41.71, Kennedy Town/Sai Yin Pun, Hong Kong Island
+ON FUNG BUILDING 安峰大廈,9800000.0,1.0,1.0,44.87, Mid Level West, Hong Kong Island
+Mayfair by the Sea 逸瓏灣,9800000.0,2.0,1.0,59.37, Tai Po Market/Tai Wo, New Territories East
+JADEWATER 南灣御園,9700000.0,2.0,1.0,48.5, Aberdeen/Ap Lei Chau, Hong Kong Island
+Sussex Court 海雅閣,9700000.0,1.0,1.0,41.34, Mid Level West, Hong Kong Island
+One Pacific Heights 盈峰一號,9700000.0,1.0,1.0,36.98, Sheung Wan/Central/Admiralty, Hong Kong Island
+GRAMERCY 瑧環,9990000.0,1.0,1.0,32.52, Mid Level West, Hong Kong Island
+Discovery Bay 愉景灣,9600000.0,2.0,1.0,64.01, Discovery Bay/Islands, New Territories West
+Woodland Court 福臨閣,9500000.0,1.0,1.0,36.98, Mid Level West, Hong Kong Island
+Po Hing Mansion 寶慶大廈,9500000.0,1.0,1.0,44.31, Sheung Wan/Central/Admiralty, Hong Kong Island
+CAINE BUILDING 廣堅大廈,9500000.0,2.0,1.0,40.51, Mid Level West, Hong Kong Island
+Cadogan 加多近山,9500000.0,1.0,1.0,32.42, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Cadogan 加多近山,9380000.0,1.0,1.0,32.42, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Dawning Height 匡景居,9300000.0,2.0,1.0,32.7, Mid Level West, Hong Kong Island
+South Horizons 海怡半島,9200000.0,2.0,1.0,50.63, Aberdeen/Ap Lei Chau, Hong Kong Island
+ALL FIT GARDEN 百合苑,9200000.0,1.0,1.0,36.88, Mid Level West, Hong Kong Island
+Bellevue Place 御林豪庭,9180000.0,2.0,1.0,35.02, Mid Level West, Hong Kong Island
+Warrenwoods 尚巒,9100000.0,1.0,1.0,35.67, Wanchai/Causeway Bay, Hong Kong Island
+Hip Sang Building 協生大廈,9000000.0,2.0,1.0,50.91, Wanchai/Causeway Bay, Hong Kong Island
+Harbour View Garden 海怡花園,9000000.0,2.0,1.0,37.35, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Chung Wui Mansion (Apartments) 中匯大樓,9000000.0,2.0,1.0,48.31, Wanchai/Causeway Bay, Hong Kong Island
+Manrich Court 萬豪閣,9000000.0,1.0,1.0,38.93, Wanchai/Causeway Bay, Hong Kong Island
+GRAMERCY 瑧環,8880000.0,,1.0,27.5, Mid Level West, Hong Kong Island
+J Residence 嘉薈軒,8800000.0,1.0,1.0,34.1, Wanchai/Causeway Bay, Hong Kong Island
+Hang Sing Mansion 恆陞大樓,8800000.0,1.0,1.0,37.63, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Million City,8600000.0,2.0,1.0,34.75, Sheung Wan/Central/Admiralty, Hong Kong Island
+Orlins Court 雅蘭閣,8500000.0,1.0,1.0,47.94, Kennedy Town/Sai Yin Pun, Hong Kong Island
+GRANDVIEW GARDEN 雍翠臺,8500000.0,1.0,1.0,35.4, Sheung Wan/Central/Admiralty, Hong Kong Island
+Glenealy Building 樹福大廈,8500000.0,1.0,1.0,34.75, Sheung Wan/Central/Admiralty, Hong Kong Island
+Grand Promenade 嘉亨灣,8500000.0,1.0,1.0,29.17, Lei King Wan/Grand Promenade/Les Saisons/Sai Wan Ho, Hong Kong Island
+Bellevue Place 御林豪庭,8500000.0,1.0,1.0,35.02, Mid Level West, Hong Kong Island
+ON FUNG BUILDING 安峰大廈,8500000.0,2.0,1.0,39.67, Mid Level West, Hong Kong Island
+Caine Tower 景怡居,8500000.0,2.0,1.0,29.64, Sheung Wan/Central/Admiralty, Hong Kong Island
+The Met Sublime 薈瑧,8500000.0,1.0,1.0,30.47, Kennedy Town/Sai Yin Pun, Hong Kong Island
+The Met Sublime 薈瑧,8500000.0,1.0,1.0,30.47, Kennedy Town/Sai Yin Pun, Hong Kong Island
+40-42 Gough Street 歌賦街40-42號,8380000.0,1.0,1.0,36.33, Sheung Wan/Central/Admiralty, Hong Kong Island
+One Pacific Heights,8500000.0,1.0,1.0,37.25, Sheung Wan/Central/Admiralty, Hong Kong Island
+FAIRVIEW HEIGHT 輝煌臺,8200000.0,2.0,1.0,32.98, Mid Level West, Hong Kong Island
+Jovial Court Peninsula,8200000.0,2.0,2.0,70.14, Discovery Bay/Islands, New Territories West
+Central Mansion 中央大廈,8380000.0,1.0,1.0,44.04, Sheung Wan/Central/Admiralty, Hong Kong Island
+Central Mansion 中央大廈,8380000.0,1.0,1.0,44.04, Sheung Wan/Central/Admiralty, Hong Kong Island
+COMFORT CENTRE 港暉中心,8100000.0,3.0,1.0,47.85, Aberdeen/Ap Lei Chau, Hong Kong Island
+Bohemian House 瑧璈,8100000.0,,1.0,27.59, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Jadestone Court 寶玉閣,8100000.0,1.0,1.0,34.37, Mid Level West, Hong Kong Island
+True Light Building 真光大廈,8000000.0,1.0,1.0,38.74, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Park Island 珀麗灣,8000000.0,2.0,1.0,54.16, Ma Wan/Park Island, New Territories West
+The Hudson 浚峰,8000000.0,1.0,1.0,29.91, Kennedy Town/Sai Yin Pun, Hong Kong Island
+50-52 Morrison Hill Road 摩理臣山道50-52號,7990000.0,2.0,1.0,41.71, Wanchai/Causeway Bay, Hong Kong Island
+CHEONG WAN MANSION 昌運大廈,7980000.0,1.0,1.0,32.7, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Flora Court 富萊閣,7980000.0,1.0,1.0,30.94, Mid Level West, Hong Kong Island
+GOLDEN PAVILION 金庭居,7980000.0,,1.0,28.24, Mid Level West, Hong Kong Island
+Belvedere Garden 麗城花園,7900000.0,3.0,2.0,62.06, Tsuen Wan, New Territories West
+Kelford Mansion 啟發大廈,7880000.0,1.0,1.0,35.3, Sheung Wan/Central/Admiralty, Hong Kong Island
+Nam Hung Mansion 南雄大廈,7880000.0,1.0,1.0,38.37, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Jadestone Court 寶玉閣,7800000.0,1.0,1.0,30.84, Mid Level West, Hong Kong Island
+St. Louis Mansion 雨時大廈,7800000.0,,1.0,28.43, Mid Level Central, Hong Kong Island
+Midland Court 美蘭閣,7800000.0,,1.0,33.54, Mid Level West, Hong Kong Island
+Goodwill Garden 康和花園,7800000.0,1.0,1.0,29.54, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Bayview,8000000.0,1.0,1.0,36.7, Peak/South, Hong Kong Island
+Woodland Court ???,7750000.0,2.0,1.0,30.57, Mid Level West, Hong Kong Island
+Midland Court 美蘭閣,7600000.0,1.0,1.0,30.29, Mid Level West, Hong Kong Island
+Bella Vista 蔚晴軒,7580000.0,2.0,1.0,30.57, Mid Level West, Hong Kong Island
+Cartwright Gardens 嘉威花園,7800000.0,1.0,1.0,32.14, Sheung Wan/Central/Admiralty, Hong Kong Island
+GRANDVIEW GARDEN 雍翠臺,7500000.0,1.0,1.0,34.93, Sheung Wan/Central/Admiralty, Hong Kong Island
+Ying Pont Building 英邦大廈,7500000.0,2.0,1.0,29.82, Mid Level West, Hong Kong Island
+Scholar Court 文豪花園,7500000.0,1.0,1.0,30.84, Kennedy Town/Sai Yin Pun, Hong Kong Island
+THE SPECTRA 朗屏8號,7500000.0,2.0,1.0,44.97, Yuen Long, New Territories West
+NAPA,7500000.0,2.0,1.0,44.5, Tuen Mun, New Territories West
+EIVISSA CREST 尚嶺,7480000.0,,1.0,28.43, Mid Level West, Hong Kong Island
+Po Hing Mansion 普慶大廈,7400000.0,2.0,1.0,40.13, Mid Level West, Hong Kong Island
+Woodland Court 福臨閣,7300000.0,,1.0,33.82, Mid Level West, Hong Kong Island
+Po Hing Court 普慶閣,7300000.0,,1.0,27.96, Sheung Wan/Central/Admiralty, Hong Kong Island
+Villa Serene 兆和軒,7300000.0,,1.0,26.57, Sheung Wan/Central/Admiralty, Hong Kong Island
+Bohemian House 瑧璈,7280000.0,,1.0,27.59, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Tai Hing Building 太慶大廈,7200000.0,1.0,1.0,24.62, Sheung Wan/Central/Admiralty, Hong Kong Island
+Po Hing Court 普慶閣,7200000.0,,1.0,28.24, Sheung Wan/Central/Admiralty, Hong Kong Island
+Kiu Fat Building 僑發大廈,7200000.0,2.0,1.0,32.61, Sheung Wan/Central/Admiralty, Hong Kong Island
+Caine Tower 景怡居,7200000.0,,1.0,29.64, Sheung Wan/Central/Admiralty, Hong Kong Island
+Harbour Industrial Centre 港灣工貿中心,7288800.0,,,67.54, Aberdeen/Ap Lei Chau, Hong Kong Island
+Ying Pont Building 英邦大廈,7000000.0,1.0,1.0,24.15, Mid Level West, Hong Kong Island
+Park Island 珀麗灣,7000000.0,2.0,1.0,51.56, Ma Wan/Park Island, New Territories West
+Garley Building 嘉利大廈,7000000.0,1.0,1.0,30.66, Sheung Wan/Central/Admiralty, Hong Kong Island
+Yue On Building 裕安大樓,6980000.0,,1.0,34.47, Wanchai/Causeway Bay, Hong Kong Island
+Midland Centre 中源中心,6980000.0,2.0,1.0,30.75, Sheung Wan/Central/Admiralty, Hong Kong Island
+To Li Garden 桃李園,6950000.0,2.0,1.0,34.56, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Tai Peng Old Village -,6880000.0,2.0,1.0,65.03, Lamma Island, New Territories West
+Windsor Court 衛城閣,6800000.0,1.0,1.0,24.06, Mid Level West, Hong Kong Island
+Villa Serene 兆和軒,6800000.0,1.0,1.0,27.59, Sheung Wan/Central/Admiralty, Hong Kong Island
+27 Sands Street 山市街27號,7000000.0,,1.0,40.13, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Pan Long Wan 檳榔灣,6800000.0,2.0,1.0,65.03, Sai Kung, New Territories East
+Cheung Fai Building 祥暉大廈,6500000.0,,1.0,27.69, Sheung Wan/Central/Admiralty, Hong Kong Island
+Mainway Court 明威閣,6300000.0,2.0,1.0,33.17, Mongkok/Yaumatei, Kowloon
+Pak Ling Building 百齡大廈,6150000.0,2.0,1.0,31.87, Wanchai/Causeway Bay, Hong Kong Island
+Tai Peng New Village Tai Peng New Village,5980000.0,3.0,1.0,65.03, Lamma Island, New Territories West
+Kai Fung Building 家鳳樓,6000000.0,2.0,1.0,28.52, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Tai Hing Building 太慶大廈,5980000.0,1.0,1.0,27.87, Sheung Wan/Central/Admiralty, Hong Kong Island
+Yung Shue Long New Village 榕樹塱村,5900000.0,2.0,1.0,65.03, Lamma Island, New Territories West
+Kee On Building 祺安大廈,5880000.0,,1.0,25.36, Mid Level West, Hong Kong Island
+Lo Tik Wan,5800000.0,3.0,1.5,130.06, Lamma Island, New Territories West
+Yung Shue Wan Main Street 榕樹灣大灣,5500000.0,2.0,1.0,65.03, Lamma Island, New Territories West
+Fook Moon Building 福滿大廈,5300000.0,1.0,1.0,20.16, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Sai Kung Town Center 西貢苑,5200000.0,1.0,1.0,30.29, Sai Kung, New Territories East
+SHAN TSUI COURT 大潭道200號,4950000.0,2.0,1.0,34.75, Shau Kei Wan/Chai Wan/Island Resort, Hong Kong Island
+Panview Court,4800000.0,,1.0,18.77, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Tai Peng Old Village -,4600000.0,3.0,1.0,65.03, Lamma Island, New Territories West
+Yung Shue Wan Main Street 榕樹灣大灣,4400000.0,2.0,1.0,65.03, Lamma Island, New Territories West
+Tai Peng New Village Tai Peng New Village,3880000.0,2.0,2.0,65.03, Lamma Island, New Territories West
+Island Crest 縉城峰,3500000.0,,,9.29, Kennedy Town/Sai Yin Pun, Hong Kong Island
+Po Wah Yuen,3300000.0,1.0,1.0,32.52, Lamma Island, New Territories West
+Po Wah Yuen,2750000.0,1.0,1.0,32.52, Lamma Island, New Territories West
+Caine Mansion 堅都大廈,2500000.0,,,9.29, Mid Level West, Hong Kong Island
+May Mansion 美華閣,1600000.0,,,9.29, Happy Valley/Mid Level East, Hong Kong Island
